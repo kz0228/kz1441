@@ -24,21 +24,17 @@ export default function PhysicalEmotionalPage() {
   }
 
   return (
-    <main className={`h-screen overflow-hidden container mx-auto px-4 py-10 md:py-16 ${isRTL ? 'text-right' : ''}`}>
-      <h1 className="text-2xl font-bold mb-4">Physical and Emotional Changes</h1>
-      <p className="text-sm text-gray-600 mb-6">Choose a tool to help observe and support your child's changes.</p>
+    <main className={`h-screen overflow-hidden container mx-auto px-4 pt-8 md:pt-20 pb-10 md:pb-16 flex flex-col items-center justify-start text-center ${isRTL ? 'text-right' : ''}`}>
+      <h1 className="text-3xl md:text-5xl font-bold mb-4">Physical and Emotional Changes</h1>
 
-      <div className="grid gap-6 grid-cols-1 sm:grid-cols-2 max-w-3xl">
+      <div className="flex gap-6 flex-col sm:flex-row items-center justify-center max-w-3xl">
         <div className="relative">
-          {pulsing && pulsingIndex === 0 && (
-            <div className="absolute -inset-1 rounded-3xl bg-gradient-to-r from-yellow-400/90 to-yellow-300/60 blur-4xl opacity-100 pointer-events-none" />
-          )}
           <Link href="/diary" onClick={handleSelect} className="group relative z-10">
             <motion.div
               animate={pulsing && pulsingIndex === 0 ? { scale: [1, 1.12, 1] } : { scale: 1 }}
               transition={pulsing && pulsingIndex === 0 ? { duration: 1.2, repeat: Infinity, repeatType: 'loop' } : { duration: 0 }}
               whileHover={{ scale: 1.08 }}
-              className={`w-full rounded-3xl bg-white shadow-xl border border-gray-100 px-8 py-12 flex items-start gap-4 transform ${pulsing && pulsingIndex === 0 ? 'ring-8 ring-yellow-300/60 shadow-2xl' : ''}`}
+              className={`w-full sm:w-96 rounded-3xl bg-white shadow-xl border border-gray-100 px-8 py-12 flex items-start gap-4 transform ${pulsing && pulsingIndex === 0 ? 'ring-8 ring-yellow-300/60 shadow-2xl' : ''}`}
             >
               <span className="text-5xl">📔</span>
               <div>
@@ -49,15 +45,12 @@ export default function PhysicalEmotionalPage() {
           </Link>
         </div>
         <div className="relative">
-          {pulsing && pulsingIndex === 1 && (
-            <div className="absolute -inset-1 rounded-3xl bg-gradient-to-r from-yellow-400/90 to-yellow-300/60 blur-4xl opacity-100 pointer-events-none" />
-          )}
           <Link href="/timeline" onClick={handleSelect} className="group relative z-10">
             <motion.div
               whileHover={{ scale: 1.02 }}
               animate={pulsing && pulsingIndex === 1 ? { scale: [1, 1.12, 1] } : { scale: 1 }}
               transition={pulsing && pulsingIndex === 1 ? { duration: 1.2, repeat: Infinity, repeatType: 'loop' } : { duration: 0 }}
-              className={`w-full rounded-3xl bg-white shadow-md border border-gray-100 px-8 py-12 flex items-start gap-4 ${pulsing && pulsingIndex === 1 ? 'ring-8 ring-yellow-300/60 shadow-2xl' : ''}`}
+              className={`w-full sm:w-96 rounded-3xl bg-white shadow-md border border-gray-100 px-8 py-12 flex items-start gap-4 ${pulsing && pulsingIndex === 1 ? 'ring-8 ring-yellow-300/60 shadow-2xl' : ''}`}
             >
               <span className="text-5xl">⏳</span>
               <div>

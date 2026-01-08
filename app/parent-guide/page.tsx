@@ -361,7 +361,14 @@ export default function ParentGuidePage() {
                               <div className="w-full h-64 bg-gradient-to-br from-blue-100 to-pink-100 flex items-center justify-center">
                                 <div className="text-center">
                                   <span className="text-blue-600 text-sm block mb-2">{header?.periodImageLabel}</span>
-                                  <span className="text-gray-500 text-xs">{header?.periodImagePath}</span>
+                                  <a
+                                    href={header?.periodImagePath}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="text-gray-500 text-xs underline break-words"
+                                  >
+                                    {header?.periodImagePath}
+                                  </a>
                                 </div>
                               </div>
                             </motion.div>
