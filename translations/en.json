@@ -345,10 +345,6 @@
       "wong": {
         "name": "Wong Yan Wen",
         "description": "Visual concept lead shaping mood boards, icon styles, and the gentle glow of every page."
-      },
-      "zhou": {
-        "name": "Zhou Junan",
-        "description": "Quality and research partner who double-checks facts, localisation, and accessibility details."
       }
     },
     "membersRoles": {
@@ -359,8 +355,7 @@
       "raja": "Interface Designer",
       "hanif": "Video Creator & Photographer",
       "rafia": "Secretary",
-      "wong": "Visual Concept",
-      "zhou": "Quality & Research Partner"
+      "wong": "Visual Concept"
     }
   },
   "footer": {

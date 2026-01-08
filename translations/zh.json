@@ -345,10 +345,6 @@
       "wong": {
         "name": "Wong Yan Wen",
         "description": "视觉概念负责人，打造情绪板、图标风格和柔和的页面氛围。"
-      },
-      "zhou": {
-        "name": "Zhou Junan",
-        "description": "质量与研究伙伴，反复核对事实、本地化与可访问性细节。"
       }
     },
     "membersRoles": {
@@ -359,8 +355,7 @@
       "raja": "界面设计师",
       "hanif": "视频与摄影创作者",
       "rafia": "秘书",
-      "wong": "视觉概念",
-      "zhou": "质量与研究伙伴"
+      "wong": "视觉概念"
     }
   },
   "footer": {

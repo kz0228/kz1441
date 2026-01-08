@@ -345,10 +345,6 @@
       "wong": {
         "name": "Wong Yan Wen",
         "description": "Ketua konsep visual yang membentuk mood board, gaya ikon dan sinaran lembut setiap halaman."
-      },
-      "zhou": {
-        "name": "Zhou Junan",
-        "description": "Rakan kualiti dan penyelidikan yang menyemak fakta, penterjemahan dan butiran kebolehcapaian."
       }
     },
     "membersRoles": {
@@ -359,8 +355,7 @@
       "raja": "Pereka Antaramuka",
       "hanif": "Pencipta Video & Jurugambar",
       "rafia": "Setiausaha",
-      "wong": "Konsep Visual",
-      "zhou": "Rakan Kualiti & Penyelidikan"
+      "wong": "Konsep Visual"
     }
   },
   "footer": {

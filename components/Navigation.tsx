@@ -166,7 +166,7 @@ export default function Navigation() {
               className="font-bold text-lg md:text-xl bg-gradient-to-r from-blue-600 via-blue-700 to-blue-800 bg-clip-text text-transparent hidden sm:inline"
               whileHover={{ scale: 1.05 }}
             >
-              Parenting Hub
+              Child Buddy
             </motion.span>
           </Link>
 

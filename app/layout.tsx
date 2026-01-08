@@ -6,14 +6,14 @@ import WelcomeCheck from '@/components/WelcomeCheck'
 import { LanguageProvider } from '@/contexts/LanguageContext'
 
 export const metadata: Metadata = {
-  title: 'Parenting Hub - Supporting Your Child Through Puberty',
+  title: 'Child Buddy - Supporting Your Child Through Puberty',
   description: 'A comprehensive guide for parents to understand and support their children during puberty. Includes expert advice, interactive games, and AI assistance in English, Arabic, and Malay.',
   keywords: ['parenting', 'puberty', 'education', 'child development', 'adolescence', 'family', 'البلوغ', 'akil baligh'],
   manifest: '/manifest.json',
   appleWebApp: {
     capable: true,
     statusBarStyle: 'default',
-    title: 'Parenting Hub',
+    title: 'Child Buddy',
   },
 }
 

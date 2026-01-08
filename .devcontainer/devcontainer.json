@@ -1,0 +1,14 @@
+{
+  "name": "occ5 devcontainer",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "forwardPorts": [3000],
+  "postStartCommand": "bash -lc 'if [ -f package.json ]; then npm install --no-audit --no-fund || true; fi; nohup npm run dev >/workspaces/occ5/.devcontainer/dev-server.log 2>&1 &'",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
+      ]
+    }
+  }
+}
