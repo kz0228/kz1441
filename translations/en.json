@@ -1,0 +1,2405 @@
+{
+  "nav": {
+    "home": "Home",
+    "changes": "Child's Changes",
+    "timeline": "Timeline Game",
+    "diary": "Child's Diary",
+    "bodyGuide": "Body Guide",
+    "guidance": "Parent Guide",
+    "games": "Games 🎮",
+    "parentGuide": "Parenting Tips",
+    "quiz": "Quiz",
+    "team": "Our Team",
+    "forChildren": "For Children",
+    "forParents": "For Parents",
+    "about": "About Us",
+    "bodyImageActivities": "Body Image Activities",
+    "whatILike": "What I Like About Me",
+    "quizzes": "Quizzes",
+    "developmentalChanges": "Developmental Changes",
+    "resourceLibrary": "Resource Library"
+  },
+  "home": {
+    "title": "Grow Together with Parenting Hub",
+    "subtitle": "Simple tools for kids and parents.",
+    "tagline": "Ready to play",
+    "heroButtons": {
+      "play": "Start games",
+      "parents": "Parent tips"
+    },
+    "heroCardTitle": "Play, learn, feel safe.",
+    "badges": {
+      "play": "Playful",
+      "safe": "Private"
+    },
+    "quickLinks": {
+      "games": {
+        "label": "Games",
+        "helper": "All games"
+      },
+      "kids": {
+        "label": "For Kids",
+        "helper": "Play & learn"
+      },
+      "parents": {
+        "label": "For Parents",
+        "helper": "Tips & guides"
+      },
+      "quizzes": {
+        "label": "Quizzes",
+        "helper": "Quick questions"
+      }
+    },
+    "note": "Switch language anytime • Data stays on this device.",
+    "aria": {
+      "heroSparkles": "Playful highlight",
+      "heroFamily": "Parent and child illustration",
+      "badgePlay": "Play badge",
+      "badgeSafe": "Safe badge"
+    },
+    "quickLinksSection": {
+      "label": "Quick links",
+      "title": "Quick links crafted for small screens—tap a card to jump right in."
+    },
+    "features": {
+      "parentGuide": {
+        "description": "Quick tips for parents"
+      },
+      "bodyGuide": {
+        "description": "Body changes guide"
+      }
+    },
+    "quickLinksCards": {
+      "diary": {
+        "label": "Mood Diary for Your Child",
+        "helper": "Track feelings together each day."
+      },
+      "hygiene": {
+        "label": "Hygiene & Self-Care",
+        "helper": "Build supportive daily routines."
+      },
+      "confidence": {
+        "label": "Confidence & Lifestyle",
+        "helper": "Grow habits that boost confidence."
+      },
+      "timeline": {
+        "label": "Timeline Game",
+        "helper": "Match changes before or after puberty."
+      },
+      "memory": {
+        "label": "Emotion Memory Game",
+        "helper": "Match emotion pairs to practice feelings."
+      },
+      "quiz": {
+        "label": "Puberty Knowledge Quiz",
+        "helper": "Test what you know about growing up."
+      },
+      "matching": {
+        "label": "Changes Matching Game",
+        "helper": "Pair related puberty changes together."
+      },
+      "emotions": {
+        "label": "Understanding Emotions",
+        "helper": "Learn to identify and name feelings."
+      },
+      "whatILike": {
+        "label": "What I Like About Me",
+        "helper": "Celebrate strengths with uplifting prompts."
+      },
+      "quizzes": {
+        "label": "Quizzes",
+        "helper": "Explore the Sleep & Nutrition Impact Quiz."
+      }
+    }
+  },
+  "timelinePage": {
+    "header": {
+      "title": "Timeline Matching Game",
+      "subtitle": "Match each change to before or after puberty begins! 🎯"
+    },
+    "stats": {
+      "score": "Score",
+      "attempts": "Attempts",
+      "accuracy": "Accuracy"
+    },
+    "complete": {
+      "title": "Congratulations! 🎉",
+      "message": "You completed the game with {score} correct out of {attempts} attempts!",
+      "playAgain": "Play Again"
+    },
+    "instructions": {
+      "selectFirst": "👇 Click on a card below, then choose when it happens!",
+      "chooseStage": "👆 Now click either \"Before Puberty\" or \"After Puberty\" below!"
+    },
+    "stages": {
+      "before": "👶 Before Puberty",
+      "after": "🌟 After Puberty"
+    },
+    "items": [
+      { "id": "1", "text": "Shorter height", "stage": "before" },
+      { "id": "2", "text": "Growth spurt happening", "stage": "after" },
+      { "id": "3", "text": "Smooth, clear skin", "stage": "before" },
+      { "id": "4", "text": "Acne may appear", "stage": "after" },
+      { "id": "5", "text": "Voice stays the same", "stage": "before" },
+      { "id": "6", "text": "Voice deepens or changes", "stage": "after" },
+      { "id": "7", "text": "Child-like body shape", "stage": "before" },
+      { "id": "8", "text": "Body curves develop", "stage": "after" },
+      { "id": "9", "text": "No body odor", "stage": "before" },
+      { "id": "10", "text": "Need for deodorant", "stage": "after" },
+      { "id": "11", "text": "Minimal body hair", "stage": "before" },
+      { "id": "12", "text": "New hair growth", "stage": "after" }
+    ]
+  },
+  "welcome": {
+    "branding": "In partnership with the inspiring spirit of the University of Malaya",
+    "slide1": {
+      "title": "Welcome, Dear Parent! 💝",
+      "subtitle": "We're So Glad You're Here",
+      "description": "Parenting through puberty can feel overwhelming, but you don't have to navigate it alone. This app is designed with love to support YOU in supporting your child through one of life's most significant transitions. Together, we'll make this journey smoother for your whole family."
+    },
+    "slide2": {
+      "title": "Understanding Your Role",
+      "subtitle": "You're Your Child's Most Important Guide",
+      "description": "Your child needs your wisdom, patience, and unconditional support more than ever. This app helps you understand what they're experiencing physically and emotionally, so you can provide the guidance they need while respecting their growing independence and privacy."
+    },
+    "slide3": {
+      "title": "What This App Offers",
+      "subtitle": "Everything You Need in One Place",
+      "feature1": "Expert parenting guidance on communication and emotional support",
+      "feature2": "Educational games and activities for your child",
+      "feature3": "Age-appropriate information about physical and emotional changes",
+      "feature4": "AI-powered assistant to answer your parenting questions",
+      "feature5": "Private diary space for your child to process their feelings"
+    },
+    "slide4": {
+      "title": "Your Privacy & Safety Matter",
+      "subtitle": "We Take Your Trust Seriously",
+      "point1": "All data stays on your device - nothing is sent to external servers",
+      "point2": "No tracking, no analytics, no third-party access to your information",
+      "point3": "The diary feature is completely private - only your child can access their entries",
+      "point4": "This is a safe, judgment-free space designed with child safety and family privacy as top priorities",
+      "acceptPrivacy": "I understand and accept the privacy policy"
+    },
+    "next": "Next",
+    "previous": "Previous",
+    "skip": "Skip to Privacy",
+    "getStarted": "Let's Begin This Journey"
+  },
+  "aiChat": {
+    "title": "Parent Assistant",
+    "subtitle": "Ask me anything about puberty in English, العربية, or Bahasa Melayu. I'll reply with practical steps you can try today.",
+    "greeting": "Hello! I'm your multilingual puberty support guide. I can chat in English, Arabic, or Bahasa Melayu—whatever feels kindest for you. Tell me what's happening and I'll share gentle scripts, daily ideas, and reminders for looking after yourself, too. What would you like help with?",
+    "placeholder": "Type your question here...",
+    "suggestedTitle": "You can get started quickly with:",
+    "suggestions": {
+      "q1": "How can I explain puberty stages gently?",
+      "q2": "What helps when my child feels overwhelmed?",
+      "q3": "How do we build a daily self-care routine?",
+      "q4": "How can I encourage healthy sleep habits?",
+      "q5": "What should I say about periods and body changes?",
+      "q6": "How do I set respectful rules around devices?"
+    },
+    "quickTopics": {
+      "title": "Tap a quick topic to send a question instantly",
+      "items": {
+        "communication": {
+          "label": "Keeping conversations open",
+          "prompt": "How can I keep conversations about puberty open without making it awkward?"
+        },
+        "emotions": {
+          "label": "Big feelings support",
+          "prompt": "My child has intense mood swings—how can I support them without overreacting?"
+        },
+        "routines": {
+          "label": "Daily routines",
+          "prompt": "What daily habits can help my child feel balanced during puberty?"
+        },
+        "culture": {
+          "label": "Faith & culture",
+          "prompt": "How do I respect our cultural or faith values while talking about puberty?"
+        },
+        "selfCare": {
+          "label": "Parent self-care",
+          "prompt": "How can I stay calm and cared for while guiding my child through puberty?"
+        }
+      }
+    },
+    "historyNotice": "Your chat history stays on this device so you can revisit tips anytime.",
+    "resources": {
+      "title": "Helpful sections you can open next",
+      "items": {
+        "parentGuide": {
+          "title": "Parent guide hub",
+          "description": "Scripts, reassurance, and cultural context for every milestone."
+        },
+        "games": {
+          "title": "Games & activities",
+          "description": "Playful challenges to learn about body changes together."
+        },
+        "diary": {
+          "title": "Feelings diary",
+          "description": "A private journal with gentle prompts just for your child."
+        }
+      }
+    },
+    "clearHistory": "Start a fresh chat",
+    "closeLabel": "Close chat window",
+    "sendLabel": "Send message",
+    "response": {
+      "puberty": "Great question! Try these steps:\n• Choose relaxed everyday moments—car rides, walks, shared chores—to mention changes you've noticed.\n• Share small facts often instead of one big \"talk\" so information feels normal.\n• Invite questions by saying, \"You can ask me anything, even if it feels awkward.\"\n• Keep trusted books or articles handy so your child can explore privately and return when they're ready.\n• Reassure them every body grows at its own pace and you are beside them all the way.",
+      "emotions": "Emotional waves are part of puberty. Try this:\n• Validate feelings first (\"I can see this feels really tough\").\n• Create a calming toolkit together—breathing, stretching, drawing, favourite songs.\n• Encourage them to name emotions and rate how strong they feel.\n• End the day with a short \"feelings check\" so they know big emotions are welcome at home.\n• If emotions feel overwhelming for both of you, pause the chat and revisit when everyone is calmer.",
+      "communication": "Strong communication grows through routine.\n• Schedule weekly check-ins and let your child choose the activity.\n• Use openers like, \"What was a win and a wobble today?\"\n• Reflect back what you hear and thank them for sharing.\n• If conversations heat up, agree to pause, breathe, and continue later—respect is more important than winning.\n• Share your own feelings occasionally so they know it's safe to be honest.",
+      "social": "Friendships can feel stormy right now.\n• Discuss what healthy friendship behaviours look like—kind words, listening, respecting boundaries.\n• Role-play how to respond to peer pressure so they feel ready.\n• Encourage clubs or teams that match their interests to widen their circle.\n• Remind them that changing friendships are normal and never reflect their worth.\n• Celebrate acts of kindness they show to others to build confidence.",
+      "privacy": "We built this app with family privacy at heart.\n• Diary entries stay on this device—no personal data leaves your home.\n• There are no trackers or ads hidden anywhere.\n• Encourage your child to use the diary as a private space to process feelings.\n• Set shared agreements about when, if ever, you'll review entries together.\n• Revisit privacy promises regularly so trust stays strong.",
+      "activities": "Learning sticks when it's playful.\n• Explore the Games section together and talk about what you both notice.\n• Memory matches build body knowledge, quizzes boost confidence, and emotion games open honest chats.\n• Ask which activity felt most helpful and why.\n• Use their answer as a bridge to keep the conversation going offline.\n• Celebrate participation—not perfection—to keep things fun.",
+      "hygiene": "Help your child build a simple hygiene rhythm.\n• Shower daily or after sports, use deodorant, and change into clean clothes.\n• Care for skin and hair with products that match their needs.\n• Turn it into teamwork: create a checklist and stick it in the bathroom.\n• Practice together the first few times, then cheer on their independence.\n• Praise effort rather than perfection so confidence can grow.",
+      "nutrition": "Bodies need steady fuel right now.\n• Offer balanced meals—colourful fruits and veggies, proteins, whole grains, and plenty of water.\n• Invite your child to plan or cook one meal a week.\n• Keep quick, healthy snacks ready for sudden hunger.\n• Talk about listening to hunger and fullness cues.\n• Share how nourishing foods keep energy and mood steady during growth spurts.",
+      "sleep": "Hormonal shifts can delay sleepiness.\n• Dim lights an hour before bed and switch to calming activities.\n• Keep wake-up times steady, even on weekends.\n• Offer quiet bonding moments—stretching, gentle chat, or reading together.\n• If worries keep them awake, jot them in a notebook to revisit tomorrow.\n• Model your own wind-down routine so they see rest as a priority.",
+      "boundaries": "Talk openly about personal boundaries.\n• Cover body privacy, emotional space, and respecting others' limits.\n• Model asking for consent (\"Can I give you a hug?\").\n• Practise scripts for saying no kindly but firmly.\n• Celebrate when they speak up for themselves or for friends.\n• Remind them that clear boundaries build healthier, safer relationships.",
+      "digital": "Create a family media plan together.\n• Agree on screen-free zones—mealtimes and bedrooms at night are great places to start.\n• Discuss how to handle friend requests, DMs, or surprising content.\n• Teach them to pause before posting and to talk to you if something feels wrong.\n• Promise they won't be in trouble for sharing unsafe online moments.\n• Review the plan regularly as their needs and maturity grow.",
+      "menstruation": "Approach periods with calm confidence.\n• Explain the basics—cycle length varies, cramps are common, and supplies exist for every body.\n• Show how to track cycles on paper or in a trusted app.\n• Pack a small school kit with pads, liners, and spare underwear.\n• Discuss pain relief strategies—heat packs, stretching, doctor visits if needed.\n• Remind them periods are a healthy sign of growth, never something to hide.",
+      "default": "I'm here to help with anything related to puberty, wellbeing, and family communication. Ask about hygiene routines, period support, emotional health, friendships, school stress, faith considerations, or keeping conversations flowing in multiple languages. Let's tackle it together—what's on your mind?"
+    }
+  },
+  "aiChatWidget": {
+    "header": {
+      "title": "Parent Helper",
+      "subtitle": "Quick answers for parents"
+    },
+    "intro": {
+      "title": "How can I help you today?",
+      "description": "Click on a topic to get instant answers"
+    },
+    "seeAnswer": "Click to see answer",
+    "back": "Back to topics",
+    "tipLabel": "Tip:",
+    "tip": "Remember, every child is different. Trust your instincts and don't hesitate to consult healthcare professionals when needed.",
+    "footer": "💙 Supporting parents through puberty education",
+    "quickAnswers": {
+      "communication": {
+        "question": "How do I start talking about puberty?",
+        "answer": "Start early and keep conversations casual. Use everyday moments like TV shows or books to bring up topics. Be honest, use correct terms, and let them know you're always available to talk. Create a safe space where questions are welcome."
+      },
+      "emotions": {
+        "question": "How do I handle mood swings?",
+        "answer": "Mood swings are normal during puberty due to hormonal changes. Be patient, validate their feelings, and help them understand this is temporary. Encourage healthy outlets like exercise, hobbies, or talking. Set boundaries but remain understanding."
+      },
+      "physical": {
+        "question": "What physical changes should I explain?",
+        "answer": "Explain growth spurts, body shape changes, skin changes (acne), body odor, and hair growth. Be gender-specific when needed. Emphasize that everyone develops at different rates and there's no \"normal\" timeline. Use age-appropriate language."
+      },
+      "hygiene": {
+        "question": "How do I teach personal hygiene?",
+        "answer": "Make hygiene routines fun and routine. Teach daily showering, deodorant use, dental care, and period care (for girls). Use positive reinforcement, not shame. Lead by example and make supplies easily accessible."
+      },
+      "confidence": {
+        "question": "How can I build their confidence?",
+        "answer": "Praise effort, not just results. Encourage their interests and hobbies. Help them set achievable goals. Teach them that their worth isn't tied to appearance. Be a positive role model and celebrate small wins together."
+      },
+      "support": {
+        "question": "When should I seek professional help?",
+        "answer": "Seek help if you notice: persistent sadness or anxiety, withdrawal from activities, significant weight changes, sleep problems, or talk of self-harm. Trust your instincts - it's always okay to consult a pediatrician or counselor."
+      }
+    }
+  },
+  "team": {
+    "title": "Meet the Hearts Behind Parenting Hub",
+    "subtitle": "We blend creativity, research, and technology to lift up every family with compassion and joy.",
+    "umTagline": "Powered by the inspiring community spirit of the University of Malaya.",
+    "celebration": "Together we craft research-backed, heart-led support so parents and children feel seen, safe, and celebrated.",
+    "badges": {
+      "dev": "Developer",
+      "special": "Special Inspiration"
+    },
+    "special": {
+      "title": "With heartfelt gratitude",
+      "name": "Dr. Nazean Jomhari",
+      "description": "Dr. Nazean Jomhari guides us with her University of Malaya vision—championing empathy, safety, and meaningful digital wellbeing for every family we serve.",
+      "highlight": "Her mentorship keeps our mission grounded in real community needs and academic excellence."
+    },
+    "members": {
+      "qais": {
+        "name": "Qais Al-Hrahsheh",
+        "description": "Programmer and systems guardian who turns caring ideas into secure, delightful experiences for families everywhere."
+      },
+      "tan": {
+        "name": "Tan Kang Zheng",
+        "description": "Presenter who guides families through the app with warmth, clarity, and real-life examples."
+      },
+      "chengyang": {
+        "name": "Chengyang Sun",
+        "description": "Team secretary who keeps us organised, captures meeting decisions, and ensures every promise becomes action."
+      },
+      "raja": {
+        "name": "Raja Nur Aqylah Natasha binti Raja Zazman Shah",
+        "description": "Interface designer who blends colour, typography, and inclusivity so families feel at home immediately."
+      },
+      "hanif": {
+        "name": "Hanif Ruben Davni Setiadji",
+        "description": "Video creator and photographer capturing heartful stories that make learning approachable."
+      },
+      "rafia": {
+        "name": "Rafia Raida Binta Jashim",
+        "description": "Co-secretary who documents insights, tracks progress, and makes sure every voice in the room is heard."
+      },
+      "wong": {
+        "name": "Wong Yan Wen",
+        "description": "Visual concept lead shaping mood boards, icon styles, and the gentle glow of every page."
+      },
+      "zhou": {
+        "name": "Zhou Junan",
+        "description": "Quality and research partner who double-checks facts, localisation, and accessibility details."
+      }
+    },
+    "membersRoles": {
+      "qais": "Lead Developer",
+      "nazean": "Project Advisor",
+      "tan": "Presenter",
+      "chengyang": "Secretary",
+      "raja": "Interface Designer",
+      "hanif": "Video Creator & Photographer",
+      "rafia": "Secretary",
+      "wong": "Visual Concept",
+      "zhou": "Quality & Research Partner"
+    }
+  },
+  "footer": {
+    "tagline": "Supporting Families",
+    "title": "Supporting Families Through Puberty",
+    "description": "A safe, loving resource for parents and children navigating puberty together 🌱",
+    "links": {
+      "title": "Quick Links",
+      "parentGuide": "Parent Guide",
+      "guidance": "Guidance",
+      "games": "Games & Activities",
+      "diary": "Mood Diary"
+    },
+    "pwa": {
+      "title": "Install App",
+      "headline": "Install as App",
+      "instructions": "Add to your home screen for easy access anytime, anywhere."
+    },
+    "rights": "© 2025 Parenting Hub. All rights reserved.",
+    "communityNote": "Made with 💙 to support families through puberty education",
+    "languagesLabel": "Languages"
+  },
+  "games": {
+    "hero": {
+      "badges": {
+        "fun": "Colorful & fun",
+        "stars": "Earn stars",
+        "swipe": "Swipe & tap",
+        "rtlReady": "RTL ready",
+        "quick": "Quick launch",
+        "pick": "Pick a game"
+      }
+    },
+    "title": "Games Hub",
+    "subtitle": "Pick & play.",
+    "tagline": "Fun starts here",
+    "swipe": "Swipe to scroll",
+    "difficulty": {
+      "easy": "Easy",
+      "medium": "Tricky"
+    },
+    "startGame": "Start",
+    "score": "Score",
+    "question": "Question",
+    "scenario": "Story",
+    "congratulations": "You did it!",
+    "wellDone": "Nice job!",
+    "quizComplete": "Quiz done!",
+    "yourScore": "Points",
+    "perfectScore": "All matches!",
+    "playAgain": "Replay",
+    "close": "Close",
+    "openGame": "Open game",
+    "tips": {
+      "tap": "Tap & play",
+      "drag": "Drag cards",
+      "stars": "Earn stars"
+    },
+    "aria": {
+      "gamepad": "Games hub icon",
+      "tip": "Play tip",
+      "progressStars": "Progress stars",
+      "star": "Star reward",
+      "sparkle": "Score sparkle",
+      "hiddenCard": "Hidden card",
+      "emojiHappy": "Happy face",
+      "emojiSad": "Sad face",
+      "emojiAngry": "Angry face",
+      "emojiNervous": "Nervous face",
+      "emojiSleepy": "Sleepy face",
+      "emojiHug": "Hugging face",
+      "emojiCool": "Cool face",
+      "emojiLoved": "Loved face"
+    },
+    "rails": {
+      "feelings": "Feelings & Emotions",
+      "body": "Body & Changes",
+      "confidence": "Confidence Games"
+    },
+    "entries": {
+      "diary": {
+        "title": "Child's Diary",
+        "tag": "Write feelings"
+      },
+      "timeline": {
+        "title": "Timeline Game",
+        "tag": "Stages"
+      },
+      "hygiene": {
+        "title": "Hygiene",
+        "tag": "Daily care"
+      },
+      "superpower": {
+        "title": "I'm Good At",
+        "tag": "Strengths"
+      },
+      "tinyGoals": {
+        "title": "Tiny Goals",
+        "tag": "Build habits"
+      },
+      "kindWords": {
+        "title": "Kind Words",
+        "tag": "Feel kind"
+      },
+      "selfLove": {
+        "title": "My Superpowers",
+        "tag": "Self-love"
+      }
+    },
+    "memory": {
+      "title": "Emoji Match",
+      "description": "Find twin emojis",
+      "instructions": "Flip, match, cheer!",
+      "aria": "Brain match icon"
+    },
+    "quiz": {
+      "title": "Quick Quiz",
+      "description": "Fast puberty facts",
+      "instructions": "Pick one answer!",
+      "aria": "Quiz target icon",
+      "q1": {
+        "question": "Normal change?",
+        "a1": "No feelings",
+        "a2": "No growth",
+        "a3": "Stay same",
+        "a4": "Mood swings"
+      },
+      "q2": {
+        "question": "What helps?",
+        "a1": "Wash & care",
+        "a2": "No exercise",
+        "a3": "Skip meals",
+        "a4": "No sleep"
+      },
+      "q3": {
+        "question": "Who to ask?",
+        "a1": "Keep quiet",
+        "a2": "Feel shy",
+        "a3": "Ask an adult",
+        "a4": "Worry alone"
+      }
+    },
+    "matching": {
+      "title": "Match Changes",
+      "description": "Link change to help",
+      "instructions": "Pair left to right!",
+      "instruction": "Tap left then right",
+      "aria": "Puzzle match icon",
+      "pair1": {
+        "left": "Moody",
+        "right": "Talk & move"
+      },
+      "pair2": {
+        "left": "Body smell",
+        "right": "Use deodorant"
+      },
+      "pair3": {
+        "left": "Growing tall",
+        "right": "Eat & rest"
+      },
+      "pair4": {
+        "left": "New likes",
+        "right": "Try new things"
+      }
+    },
+    "emotions": {
+      "title": "Feelings Game",
+      "description": "Pick your feeling",
+      "instructions": "Tap the emotion that matches the emoji!",
+      "prompt": "Which feeling fits this face?",
+      "complete": "You explored all the feelings!",
+      "emotion1": "Happy",
+      "emotion2": "Sad",
+      "emotion3": "Angry",
+      "emotion4": "Surprised",
+      "howWouldYouFeel": "How do you feel?",
+      "happy": "Happy",
+      "angry": "Angry",
+      "sad": "Sad",
+      "anxious": "Worried",
+      "proud": "Proud",
+      "aria": "Heart emoji icon",
+      "scenario1": {
+        "situation": "Friend took your thing."
+      },
+      "scenario2": {
+        "situation": "Great test score!"
+      },
+      "scenario3": {
+        "situation": "Talk to the class."
+      }
+    }
+  },
+  "parentGuide": {
+    "title": "Comprehensive Parent Guide",
+    "subtitle": "Evidence-based advice to help you support your child through puberty 💙",
+    "categories": {
+      "communication": "Communication",
+      "emotional": "Emotional Support",
+      "physical": "Physical Changes",
+      "social": "Social Development",
+      "privacy": "Privacy & Safety",
+      "resources": "Resources"
+    },
+    "communication": {
+      "startEarly": {
+        "title": "Start Conversations Early",
+        "description": "Don't wait for 'the talk' - make puberty an ongoing conversation",
+        "tip1": "Begin age-appropriate discussions around age 8-9, before changes start",
+        "tip2": "Use everyday moments as teaching opportunities (TV shows, books, observations)",
+        "tip3": "Keep conversations casual and normalize the topic - avoid making it feel like a big deal",
+        "tip4": "Let your child lead with questions and follow their curiosity"
+      },
+      "listening": {
+        "title": "Practice Active Listening",
+        "description": "Truly hearing your child builds trust and openness",
+        "tip1": "Put away phones and give undivided attention when they want to talk",
+        "tip2": "Don't interrupt or rush to fix problems - sometimes they just need to be heard",
+        "tip3": "Reflect back what you hear: 'It sounds like you're feeling...'",
+        "tip4": "Avoid judgment or dismissing their concerns, even if they seem small to you"
+      },
+      "openness": {
+        "title": "Create a Judgment-Free Zone",
+        "description": "Make it safe for your child to share anything with you",
+        "tip1": "Stay calm when they share difficult things - your reaction determines if they'll share again",
+        "tip2": "Share age-appropriate stories from your own puberty to show understanding",
+        "tip3": "Use correct anatomical terms - it removes shame and teaches proper language",
+        "tip4": "Reassure them that no question is too embarrassing or stupid to ask"
+      }
+    },
+    "emotional": {
+      "moodSwings": {
+        "title": "Understanding Mood Swings",
+        "description": "Hormonal changes cause real emotional turbulence - it's not just attitude",
+        "tip1": "Recognize that mood swings are caused by biology, not intentional bad behavior",
+        "tip2": "Don't take emotional outbursts personally - give space but stay available",
+        "tip3": "Help them identify emotions: 'You seem frustrated' rather than 'Why are you so angry?'",
+        "tip4": "Teach coping strategies: deep breathing, physical activity, journaling, or talking"
+      },
+      "confidence": {
+        "title": "Building Self-Confidence",
+        "description": "Puberty can shake self-esteem - your support is crucial",
+        "tip1": "Focus on effort and character traits, not just appearance or achievements",
+        "tip2": "Point out their strengths regularly, especially in areas they might not notice",
+        "tip3": "Model positive self-talk and body acceptance in your own life",
+        "tip4": "Help them set realistic goals and celebrate small wins along the way"
+      },
+      "mentalHealth": {
+        "title": "Watch for Mental Health Concerns",
+        "description": "Know when normal mood changes cross into something more serious",
+        "tip1": "Persistent sadness lasting more than 2 weeks may indicate depression - seek help",
+        "tip2": "Watch for changes in sleep, appetite, grades, or withdrawal from activities they loved",
+        "tip3": "Take any mention of self-harm or suicidal thoughts extremely seriously - get immediate help",
+        "tip4": "There's no shame in professional help - therapists can provide tools you can't"
+      }
+    },
+    "physical": {
+      "bodyChanges": {
+        "title": "Explaining Physical Changes",
+        "description": "Help your child understand what's happening to their body",
+        "tip1": "Explain that everyone develops at different rates - there's no 'normal' timeline",
+        "tip2": "Discuss changes before they happen when possible - preparation reduces anxiety",
+        "tip3": "Be matter-of-fact about topics like periods, erections, and body hair",
+        "tip4": "Reassure them that awkward feelings about their changing body are temporary"
+      },
+      "hygiene": {
+        "title": "Teaching Proper Hygiene",
+        "description": "New hygiene needs arise during puberty",
+        "tip1": "Provide necessary products without fuss: deodorant, shampoo, menstrual supplies, etc.",
+        "tip2": "Teach daily showering, especially after sports or physical activity",
+        "tip3": "Discuss acne care gently - don't make them feel self-conscious",
+        "tip4": "Make hygiene supplies easily accessible in their bathroom space"
+      },
+      "health": {
+        "title": "Promoting Healthy Habits",
+        "description": "Puberty is the perfect time to establish lifelong healthy behaviors",
+        "tip1": "Ensure 8-10 hours of sleep nightly - teens need more sleep than you might think",
+        "tip2": "Stock healthy snacks - growing bodies need good fuel frequently",
+        "tip3": "Encourage regular physical activity they enjoy, not just organized sports",
+        "tip4": "Model healthy habits yourself - they learn more from what you do than what you say"
+      }
+    },
+    "social": {
+      "friendships": {
+        "title": "Navigating Changing Friendships",
+        "description": "Social relationships become more complex during puberty",
+        "tip1": "Validate that friendship changes and losses are painful and normal",
+        "tip2": "Help them distinguish between healthy and unhealthy friendships",
+        "tip3": "Resist the urge to fix friend problems - guide them to solve issues themselves",
+        "tip4": "Keep lines of communication open about who they're spending time with"
+      },
+      "peerPressure": {
+        "title": "Handling Peer Pressure",
+        "description": "Equip your child with tools to resist negative influences",
+        "tip1": "Role-play scenarios so they practice saying 'no' before facing real pressure",
+        "tip2": "Give them an 'out': Let them blame you ('My parents will kill me')",
+        "tip3": "Discuss the difference between fitting in and changing who they are",
+        "tip4": "Build confidence in their own values and decision-making abilities"
+      },
+      "boundaries": {
+        "title": "Teaching Personal Boundaries",
+        "description": "Help your child understand and communicate boundaries",
+        "tip1": "Teach them that their body is theirs - they control who touches it and how",
+        "tip2": "Respect their need for privacy (knocking, not reading diaries, etc.)",
+        "tip3": "Model setting your own boundaries with others",
+        "tip4": "Make it clear they can always tell you if someone makes them uncomfortable"
+      }
+    },
+    "privacy": {
+      "onlineSafety": {
+        "title": "Digital Safety During Puberty",
+        "description": "Online risks increase as children become more independent",
+        "tip1": "Have open conversations about what they're doing online - avoid just monitoring secretly",
+        "tip2": "Discuss the permanence of online posts and the concept of digital footprints",
+        "tip3": "Talk about the difference between online personas and reality (including unrealistic bodies)",
+        "tip4": "Set clear rules about sharing personal information and photos online"
+      },
+      "personalSpace": {
+        "title": "Respecting Privacy Needs",
+        "description": "Balance their need for privacy with your need to keep them safe",
+        "tip1": "Knock before entering their room - physical privacy builds trust",
+        "tip2": "Don't read diaries or texts unless you have serious safety concerns",
+        "tip3": "Create privacy for bathroom and dressing while staying available for questions",
+        "tip4": "Explain that privacy is a privilege that comes with responsibility and honesty"
+      }
+    },
+    "resources": {
+      "books": {
+        "title": "Recommended Books & Materials",
+        "description": "Quality resources to supplement your conversations",
+        "tip1": "Age-appropriate books about puberty to leave where your child can read privately",
+        "tip2": "Consider books specific to your child's gender identity and body",
+        "tip3": "Online resources from reputable sources (medical organizations, schools)",
+        "tip4": "This app's interactive games and activities make learning engaging"
+      },
+      "professional": {
+        "title": "When to Seek Professional Help",
+        "description": "Sometimes expert guidance is needed - and that's okay",
+        "tip1": "Pediatrician visits around ages 9-11 for puberty discussions",
+        "tip2": "Therapist if emotional struggles persist or intensify",
+        "tip3": "School counselor for social or academic concerns",
+        "tip4": "Support groups for parents navigating similar challenges"
+      }
+    },
+    "keyPrinciples": {
+      "title": "Core Principles for Parenting Through Puberty",
+      "patience": {
+        "title": "Patience is Everything",
+        "description": "This phase is temporary. Your child will make mistakes, say hurtful things, and test boundaries. Stay steady - your calm consistency is their anchor during this storm."
+      },
+      "communication": {
+        "title": "Keep Talking",
+        "description": "Even when they seem uninterested or push you away, keep showing up. Brief check-ins, notes, texts - find ways to stay connected that work for them."
+      },
+      "safety": {
+        "title": "Safety First, Always",
+        "description": "Trust is important, but so is safety. It's okay to monitor, ask questions, and set boundaries. Being the 'cool parent' is less important than being the protective one."
+      },
+      "support": {
+        "title": "Unconditional Love",
+        "description": "No matter how challenging this phase gets, remind your child regularly that your love is unwavering. They need to know they can't lose your love by growing up."
+      }
+    },
+    "emergency": {
+      "title": "When to Seek Immediate Help",
+      "description": "If your child exhibits any of these signs, don't hesitate - get professional help immediately:",
+      "point1": "Any mention of self-harm, suicide, or hurting others",
+      "point2": "Sudden, dramatic personality changes or complete withdrawal",
+      "point3": "Signs of abuse (physical marks, extreme fear, inappropriate sexual knowledge)"
+    },
+    "header": {
+      "title": "Parent Guide & Parenting Tips",
+      "subtitle": "Expert advice for parents and helpful tips for your child",
+      "parentTab": "Parent Guide",
+      "childTab": "Parenting Tips",
+      "periodImageLabel": "📷 Period Care Image",
+      "periodImagePath": "/images/period-care-guide.jpg"
+    },
+    "extraSections": {
+      "communication": [
+        {
+          "id": "difficult-conversations",
+          "title": "Handling Difficult Conversations",
+          "description": "When your child asks uncomfortable questions or brings up sensitive topics",
+          "tips": [
+            "Stay calm and don't show shock or embarrassment - your reaction sets the tone",
+            "It's okay to say \"I need a moment to think\" rather than giving a rushed answer",
+            "Use age-appropriate language - be honest but don't overwhelm with details",
+            "If you don't know something, say so and offer to find out together",
+            "Create a safe space where no question is \"silly\" or \"wrong\"",
+            "Follow up later to see if they have more questions"
+          ]
+        },
+        {
+          "id": "cultural-considerations",
+          "title": "Cultural Sensitivity in Conversations",
+          "description": "Respecting cultural and religious values while providing accurate information",
+          "tips": [
+            "Acknowledge and respect your family's cultural and religious values",
+            "Find ways to discuss puberty that align with your beliefs",
+            "Use culturally appropriate examples and language",
+            "Connect with community leaders or trusted advisors if needed",
+            "Balance cultural values with scientific accuracy",
+            "Remember: every family's approach is valid"
+          ]
+        }
+      ],
+      "emotional": [
+        {
+          "id": "handling-rejection",
+          "title": "When Your Child Rejects Your Help",
+          "description": "What to do when your child pushes you away or says they don't need help",
+          "tips": [
+            "Don't take it personally - independence is a normal part of development",
+            "Stay available without being pushy - let them know you're there when ready",
+            "Respect their need for space while maintaining boundaries",
+            "Find indirect ways to support (leave helpful resources, check in casually)",
+            "Connect them with other trusted adults (aunt, teacher, counselor)",
+            "Remember: pushing away is often a sign of struggling, not rejection of you"
+          ]
+        },
+        {
+          "id": "anxiety-stress",
+          "title": "Supporting Anxious or Stressed Children",
+          "description": "Helping your child manage anxiety and stress during puberty",
+          "tips": [
+            "Recognize that puberty itself can be stressful - validate their feelings",
+            "Teach simple coping strategies: deep breathing, counting, grounding techniques",
+            "Help them identify triggers and create a plan for managing them",
+            "Encourage healthy outlets: exercise, art, music, journaling",
+            "Model healthy stress management in your own life",
+            "Seek professional help if anxiety interferes with daily life"
+          ]
+        }
+      ],
+      "physical": [
+        {
+          "id": "first-period",
+          "title": "Preparing for Your Child's First Period",
+          "description": "Practical guidance for when your daughter starts menstruating",
+          "tips": [
+            "Have period supplies ready before it starts (pads, tampons, period underwear)",
+            "Create a \"period kit\" for school with supplies and a change of clothes",
+            "Normalize periods - talk about them as a natural, healthy process",
+            "Teach them how to track their cycle and what to expect",
+            "Discuss period pain management options (heat, gentle exercise, pain relief)",
+            "Reassure them that irregular periods in the first year are completely normal"
+          ]
+        },
+        {
+          "id": "body-image",
+          "title": "Supporting Positive Body Image",
+          "description": "Helping your child develop a healthy relationship with their changing body",
+          "tips": [
+            "Avoid negative comments about your own body or others' bodies",
+            "Focus on what bodies can DO, not just how they look",
+            "Celebrate diversity - all body shapes and sizes are normal",
+            "Limit exposure to unrealistic media images when possible",
+            "Encourage activities that make them feel strong and capable",
+            "Address body-shaming comments from others immediately"
+          ]
+        }
+      ],
+      "social": [
+        {
+          "id": "dating-relationships",
+          "title": "Navigating First Relationships",
+          "description": "Supporting your child through their first crushes and relationships",
+          "tips": [
+            "Start conversations about healthy relationships early, before dating begins",
+            "Discuss consent, respect, and boundaries in age-appropriate ways",
+            "Set clear rules about dating that match your family values",
+            "Keep communication open - ask about their friends and interests",
+            "Help them recognize red flags in relationships",
+            "Be a safe person they can talk to about relationship concerns"
+          ]
+        },
+        {
+          "id": "social-media",
+          "title": "Social Media and Peer Influence",
+          "description": "Helping your child navigate social media and online peer pressure",
+          "tips": [
+            "Set clear rules about social media use and privacy settings",
+            "Have regular conversations about what they see online",
+            "Teach critical thinking about online content and influencers",
+            "Monitor their online activity while respecting growing independence",
+            "Discuss the difference between online personas and real life",
+            "Create tech-free times and spaces for family connection"
+          ]
+        }
+      ]
+    },
+    "childTips": {
+      "categories": {
+        "physical": "Physical",
+        "emotional": "Emotional",
+        "social": "Social",
+        "hygiene": "Hygiene"
+      },
+      "cards": {
+        "physical": [
+          {
+            "id": "exercise",
+            "title": "Stay Active",
+            "description": "Regular exercise helps your body develop healthily and boosts your mood",
+            "tips": [
+              "Aim for at least 60 minutes of activity each day",
+              "Try different sports to find what you enjoy",
+              "Walking, dancing, and playing with friends all count!",
+              "Exercise helps with stress and sleep too"
+            ]
+          },
+          {
+            "id": "nutrition",
+            "title": "Healthy Eating",
+            "description": "Your growing body needs good nutrition to support all the changes",
+            "tips": [
+              "Eat plenty of fruits and vegetables every day",
+              "Drink lots of water - aim for 6-8 glasses daily",
+              "Don't skip breakfast - it gives you energy for the day",
+              "Limit sugary snacks and drinks"
+            ]
+          },
+          {
+            "id": "sleep",
+            "title": "Get Enough Sleep",
+            "description": "Sleep is when your body grows and repairs itself",
+            "tips": [
+              "Teenagers need 8-10 hours of sleep each night",
+              "Try to go to bed at the same time every night",
+              "Avoid screens 30 minutes before bedtime",
+              "Keep your bedroom cool, dark, and quiet"
+            ]
+          },
+          {
+            "id": "pain",
+            "title": "Managing Discomfort",
+            "description": "Some changes might cause temporary discomfort",
+            "tips": [
+              "For growing pains, try gentle stretching",
+              "A warm bath can help with muscle aches",
+              "Talk to an adult if pain persists or worries you",
+              "Remember: most discomfort is temporary"
+            ]
+          }
+        ],
+        "emotional": [
+          {
+            "id": "feelings",
+            "title": "Understanding Your Feelings",
+            "description": "It's normal to have big emotions during puberty",
+            "tips": [
+              "All feelings are valid - happy, sad, angry, confused",
+              "Mood swings are caused by hormones - they're normal",
+              "It's okay to cry or feel overwhelmed sometimes",
+              "Your feelings will become more stable with time"
+            ]
+          },
+          {
+            "id": "stress",
+            "title": "Managing Stress",
+            "description": "Learn healthy ways to cope with stress and anxiety",
+            "tips": [
+              "Try deep breathing: breathe in for 4, hold for 4, out for 4",
+              "Talk to someone you trust about your worries",
+              "Exercise is a great stress reliever",
+              "Take breaks when you feel overwhelmed"
+            ]
+          },
+          {
+            "id": "confidence",
+            "title": "Building Self-Confidence",
+            "description": "Feeling good about yourself takes practice",
+            "tips": [
+              "Focus on what you like about yourself",
+              "Set small, achievable goals and celebrate wins",
+              "Don't compare yourself to others - everyone's different",
+              "Practice positive self-talk daily"
+            ]
+          },
+          {
+            "id": "help",
+            "title": "When to Ask for Help",
+            "description": "It's important to know when to reach out",
+            "tips": [
+              "If sad feelings last more than 2 weeks",
+              "If you have thoughts of hurting yourself",
+              "If anxiety stops you from daily activities",
+              "Talk to parents, school counselor, or trusted adult"
+            ]
+          }
+        ],
+        "social": [
+          {
+            "id": "friends",
+            "title": "Friendships",
+            "description": "Relationships become more important during puberty",
+            "tips": [
+              "Real friends accept you for who you are",
+              "It's okay if friendships change - you're all growing",
+              "Quality is more important than quantity",
+              "Be yourself - don't pretend to be someone you're not"
+            ]
+          },
+          {
+            "id": "peer-pressure",
+            "title": "Handling Peer Pressure",
+            "description": "Learn to make your own choices confidently",
+            "tips": [
+              "It's okay to say \"no\" - real friends will respect that",
+              "You don't have to do something just because others do",
+              "If something feels wrong, trust your instincts",
+              "Find friends who share your values"
+            ]
+          },
+          {
+            "id": "communication",
+            "title": "Communication",
+            "description": "Express yourself clearly and listen to others",
+            "tips": [
+              "Use \"I feel\" statements instead of blaming",
+              "Listen actively when others speak",
+              "It's okay to disagree respectfully",
+              "Ask questions if you don't understand"
+            ]
+          },
+          {
+            "id": "boundaries",
+            "title": "Personal Boundaries",
+            "description": "Understanding and respecting personal space",
+            "tips": [
+              "Your body is yours - you control who touches it",
+              "Say \"stop\" if something makes you uncomfortable",
+              "Respect others' boundaries too",
+              "Tell a trusted adult if someone crosses your boundaries"
+            ]
+          }
+        ],
+        "hygiene": [
+          {
+            "id": "shower",
+            "title": "Daily Hygiene",
+            "description": "Keep your body clean and fresh",
+            "tips": [
+              "Shower or bathe daily, especially after exercise",
+              "Use soap and shampoo - pay attention to underarms",
+              "Wash your face twice daily to prevent acne",
+              "Change into clean clothes daily"
+            ]
+          },
+          {
+            "id": "deodorant",
+            "title": "Managing Body Odor",
+            "description": "Everyone sweats more during puberty",
+            "tips": [
+              "Use deodorant or antiperspirant daily",
+              "Apply after showering and before bed",
+              "Wear breathable fabrics like cotton",
+              "Keep extra deodorant in your backpack"
+            ]
+          },
+          {
+            "id": "skin",
+            "title": "Skin Care",
+            "description": "Take care of your changing skin",
+            "tips": [
+              "Wash your face gently - don't scrub too hard",
+              "Use oil-free moisturizer if your skin is dry",
+              "Never pop pimples - it can cause scarring",
+              "See a doctor if acne bothers you"
+            ]
+          },
+          {
+            "id": "period",
+            "title": "Period Care (for those who menstruate)",
+            "description": "Managing your monthly cycle",
+            "tips": [
+              "Change pads/tampons every 4-6 hours",
+              "Keep supplies in your bag for emergencies",
+              "Track your cycle to know when to expect it",
+              "Gentle exercise can help with cramps"
+            ]
+          }
+        ]
+      },
+      "helpfulTipsLabel": "Helpful Tips:",
+      "emergency": {
+        "title": "Need Immediate Help? 🆘",
+        "description": "If you're feeling very upset, scared, or need to talk to someone right away, don't wait:",
+        "points": [
+          "Talk to a parent, guardian, or trusted adult immediately",
+          "Contact your school counselor or nurse",
+          "Call a helpline in your country (they're free and confidential)",
+          "Remember: Asking for help is a sign of strength, not weakness! 💪"
+        ]
+      }
+    }
+  },
+  "changes": {
+    "title": "Understanding Your Child's Changes",
+    "subtitle": "Learn what your child is experiencing physically and emotionally 🌟",
+    "physical": "Physical",
+    "emotional": "Emotional",
+    "physicalChanges": {
+      "growth": {
+        "title": "Growth Spurts",
+        "description": "Children grow at different rates. Growth spurts can be rapid and awkward."
+      },
+      "bodyShape": {
+        "title": "Body Shape Changes",
+        "description": "Body develops new proportions and curves as they mature."
+      },
+      "voice": {
+        "title": "Voice Changes",
+        "description": "Voice may deepen or change in pitch - especially in boys."
+      },
+      "skin": {
+        "title": "Skin Changes",
+        "description": "Acne and oily skin are common. Good hygiene helps manage this."
+      },
+      "hair": {
+        "title": "Hair Growth",
+        "description": "New hair grows in underarms, pubic area, and on face (boys)."
+      },
+      "odor": {
+        "title": "Body Odor",
+        "description": "Increased sweating requires daily deodorant use."
+      }
+    },
+    "emotionalChanges": {
+      "mood": {
+        "title": "Mood Swings",
+        "description": "Hormonal changes cause real emotional volatility - it's biological."
+      },
+      "interests": {
+        "title": "New Interests",
+        "description": "Children develop new hobbies, passions, and interests."
+      },
+      "independence": {
+        "title": "Independence",
+        "description": "They'll want more privacy and independence from family."
+      },
+      "relationships": {
+        "title": "Relationships",
+        "description": "Friendships and romantic interests become more important."
+      },
+      "awareness": {
+        "title": "Self-Awareness",
+        "description": "They think more about identity and who they want to become."
+      },
+      "confidence": {
+        "title": "Confidence Challenges",
+        "description": "Self-esteem often dips during puberty - they need reassurance."
+      }
+    },
+    "remember": {
+      "title": "Important Reminders for Parents 🌈",
+      "timing": "Timing: Puberty can start ages 8-14. Every child is unique - don't compare!",
+      "pace": "Pace: Some changes happen quickly, others take years. Be patient.",
+      "support": "Support: Keep communication open. Your child needs to know you're available for any questions or concerns."
+    }
+  },
+  "diary": {
+    "title": "Your Child's Feelings Diary",
+    "subtitle": "A private space for your child to track and express their emotions 📝",
+    "header": "My Feelings Diary",
+    "description": "Track your moods and thoughts during your journey 📝",
+    "views": {
+      "list": "List View",
+      "calendar": "Calendar View"
+    },
+    "addEntry": "Add New Entry",
+    "cancel": "Cancel",
+    "howFeeling": "How are you feeling today?",
+    "moods": {
+      "happy": "Happy",
+      "neutral": "Neutral",
+      "sad": "Sad",
+      "excited": "Excited",
+      "anxious": "Anxious"
+    },
+    "placeholder": "What's on your mind? Share your thoughts, feelings, or what happened today...",
+    "saveEntry": "Save Entry",
+    "listEmpty": "No entries yet. Start by adding your first one! 💭",
+    "note": "Note: You can export your mood calendar to Google Calendar. Each entry will show your mood for that day.",
+    "calendar": {
+      "previous": "Previous month",
+      "next": "Next month",
+      "weekdays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+    },
+    "noEntries": "No entries yet. Start by adding your first one! 💭",
+    "tips": {
+      "title": "💡 Diary Tips for Your Child",
+      "regular": "✨ Write regularly - even just a few sentences helps!",
+      "honest": "🎯 Be honest about feelings - this is a private space",
+      "lookback": "🌈 Look back at old entries to see growth over time",
+      "valid": "💪 Remember: all feelings are valid and normal"
+    }
+  },
+  "confidencePage": {
+    "title": "Confidence, Self-Acceptance & Lifestyle",
+    "subtitle": "Build healthy habits and boost your confidence one step at a time! 🌟💪",
+    "tabs": {
+      "habits": "🎯 Habit Tracker",
+      "game": "👍 Good / Not Good"
+    },
+    "currentFocus": {
+      "title": "Current Focus",
+      "subtitle": "One habit at a time for better success! 💪",
+      "streak": "Streak",
+      "totalDays": "Total Days",
+      "markComplete": "Completed Today",
+      "markIncomplete": "Mark Today Complete"
+    },
+    "habitLimit": "Focus on one habit at a time! Complete your current habit before adding a new one. 💪",
+    "habitCompletion": "Amazing! You've completed {days} days! You can add a new habit or keep building this one!",
+    "availableHabits": "Choose a habit to focus on",
+    "habitLocked": "Complete your current habit (7+ days) to unlock new ones!",
+    "chooseHabit": "Choose a habit to start your journey!",
+    "habits": [
+      {
+        "id": "exercise",
+        "name": "Daily Exercise",
+        "description": "Move your body for at least 30 minutes",
+        "icon": "🏃",
+        "color": "from-blue-400 to-cyan-500"
+      },
+      {
+        "id": "sleep",
+        "name": "Good Sleep",
+        "description": "Get 8-10 hours of sleep",
+        "icon": "😴",
+        "color": "from-purple-400 to-indigo-500"
+      },
+      {
+        "id": "water",
+        "name": "Drink Water",
+        "description": "Drink 6-8 glasses of water",
+        "icon": "💧",
+        "color": "from-cyan-400 to-blue-500"
+      },
+      {
+        "id": "gratitude",
+        "name": "Gratitude Journal",
+        "description": "Write 3 things you're grateful for",
+        "icon": "📝",
+        "color": "from-yellow-400 to-orange-500"
+      },
+      {
+        "id": "reading",
+        "name": "Read for Fun",
+        "description": "Read for 20 minutes",
+        "icon": "📚",
+        "color": "from-green-400 to-emerald-500"
+      },
+      {
+        "id": "meditation",
+        "name": "Mindful Moment",
+        "description": "Take 5 minutes to breathe and relax",
+        "icon": "🧘",
+        "color": "from-pink-400 to-rose-500"
+      }
+    ],
+    "progress": {
+      "title": "How does this build confidence?",
+      "points": [
+        "Success ➜ Completing daily habits proves you can set goals and achieve them",
+        "Self-Control ➜ Proving to yourself that you can stick to habits builds trust in yourself",
+        "Direct Feedback ➜ Seeing your progress (streaks, completed days) shows you're reliable",
+        "Self-Acceptance ➜ When you achieve your goals, you learn to value yourself without needing others' approval"
+      ]
+    },
+    "tips": {
+      "title": "Building Confidence Tips 💡",
+      "items": [
+        "One Habit at a Time: Focus on one healthy habit before adding another so you can succeed!",
+        "Track Your Progress: Seeing your streak and completed days proves you're capable and reliable.",
+        "Celebrate Small Wins: Every day you complete your habit is a victory worth celebrating!",
+        "Be Patient: Building confidence takes time. Be kind to yourself on the journey."
+      ]
+    },
+    "game": {
+      "title": "Good / Not Good Activity",
+      "description": "Choose whether each activity feels GOOD or NOT GOOD for your lifestyle and well-being.",
+      "good": "GOOD",
+      "notGood": "NOT GOOD",
+      "checkAnswers": "Check Answers ({answered}/{total})",
+      "items": [
+        { "id": "playing-sports", "name": "Playing Sports", "icon": "⚽", "category": "good" },
+        { "id": "drawing-art", "name": "Drawing & Art", "icon": "🎨", "category": "good" },
+        { "id": "singing", "name": "Singing", "icon": "🎤", "category": "good" },
+        { "id": "reading-books", "name": "Reading Books", "icon": "📖", "category": "good" },
+        { "id": "fishing", "name": "Fishing", "icon": "🎣", "category": "good" },
+        { "id": "board-games", "name": "Board Games", "icon": "🎲", "category": "good" },
+        { "id": "dancing", "name": "Dancing", "icon": "🕺", "category": "good" },
+        { "id": "taking-photos", "name": "Taking Photos", "icon": "📸", "category": "good" },
+        { "id": "cooking", "name": "Cooking", "icon": "🍳", "category": "good" },
+        { "id": "gardening", "name": "Gardening", "icon": "🌱", "category": "good" },
+        { "id": "baking", "name": "Baking", "icon": "🧁", "category": "good" },
+        { "id": "programming", "name": "Programming", "icon": "💻", "category": "good" }
+      ],
+      "feedback": {
+        "correct": "Correct!",
+        "shouldBeGood": "Should be GOOD",
+        "shouldBeNotGood": "Should be NOT GOOD",
+        "score": "You got {correct} out of {total} correct!",
+        "perfect": "Perfect! You understand healthy lifestyle choices! 🌟",
+        "almost": "Great job! Keep learning about healthy habits! 💪",
+        "playAgain": "Play Again"
+      }
+    }
+  },
+  "hygienePage": {
+    "title": "Hygiene & Self-Care Routines",
+    "subtitle": "Build your daily hygiene routine and learn about self-care! Drag on desktop or tap on phones. 🧼✨",
+    "tabs": {
+      "builder": "🛁 Routine Builder",
+      "game": "🎮 Hygiene Game"
+    },
+    "availableActivities": "Available Activities",
+    "dragHelp": "Drag items to build your routine or tap to place them.",
+    "tapTarget": "Tap-to-add target:",
+    "tapHint": "(Perfect for phones — tap a card to drop it here!)",
+    "routines": {
+      "morning": "🌅 Morning",
+      "afternoon": "☀️ Afternoon",
+      "evening": "🌙 Evening",
+      "title": "{time} Routine",
+      "empty": "Drop items here",
+      "saved": {
+        "title": "Your Routine is Saved!",
+        "description": "You've created a {count}-item hygiene routine. Keep it up! 💪"
+      }
+    },
+    "builderItems": [
+      { "id": "brush-teeth", "name": "Brush Teeth", "icon": "🦷", "category": "morning" },
+      { "id": "wash-face", "name": "Wash Face", "icon": "🧼", "category": "morning" },
+      { "id": "shower", "name": "Shower", "icon": "🚿", "category": "morning" },
+      { "id": "deodorant", "name": "Deodorant", "icon": "🧴", "category": "morning" },
+      { "id": "comb-hair", "name": "Comb Hair", "icon": "💇", "category": "morning" },
+      { "id": "wash-hands", "name": "Wash Hands", "icon": "🤲", "category": "afternoon" },
+      { "id": "change-clothes", "name": "Change Clothes", "icon": "👕", "category": "afternoon" },
+      { "id": "brush-teeth-night", "name": "Brush Teeth", "icon": "🦷", "category": "evening" },
+      { "id": "wash-face-night", "name": "Wash Face", "icon": "🧼", "category": "evening" },
+      { "id": "shower-night", "name": "Shower", "icon": "🚿", "category": "evening" }
+    ],
+    "game": {
+      "title": "Categorize Hygiene Items",
+      "description": "Drag or tap each item to its correct category! Match the hygiene tools with where they're used, even on phones.",
+      "categories": [
+        { "id": "shower", "name": "Shower", "icon": "🚿", "color": "from-blue-400 to-cyan-500" },
+        { "id": "oral", "name": "Oral Care", "icon": "🦷", "color": "from-green-400 to-emerald-500" },
+        { "id": "hands", "name": "Hand Hygiene", "icon": "🤲", "color": "from-yellow-400 to-orange-500" },
+        { "id": "general", "name": "General Care", "icon": "✨", "color": "from-purple-400 to-pink-500" }
+      ],
+      "items": [
+        { "id": "towel", "name": "Towel", "icon": "🧺", "category": "shower" },
+        { "id": "soap", "name": "Soap", "icon": "🧼", "category": "shower" },
+        { "id": "shampoo", "name": "Shampoo", "icon": "🧴", "category": "shower" },
+        { "id": "toothbrush", "name": "Toothbrush", "icon": "🪥", "category": "oral" },
+        { "id": "toothpaste", "name": "Toothpaste", "icon": "🦷", "category": "oral" },
+        { "id": "floss", "name": "Dental Floss", "icon": "🧵", "category": "oral" },
+        { "id": "hand-soap", "name": "Hand Soap", "icon": "🧴", "category": "hands" },
+        { "id": "hand-sanitizer", "name": "Hand Sanitizer", "icon": "💧", "category": "hands" },
+        { "id": "deodorant-game", "name": "Deodorant", "icon": "🧴", "category": "general" },
+        { "id": "moisturizer", "name": "Moisturizer", "icon": "🧴", "category": "general" }
+      ],
+      "dragPrompt": "Drag or tap these items to the correct category:",
+      "tapToPlace": "Tap to place:",
+      "checkAnswers": "Check Answers ({answered}/{total})",
+      "score": "You got {correct} out of {total} correct!",
+      "perfect": "Perfect! You're a hygiene expert! 🌟",
+      "almost": "Great job! Keep learning about hygiene! 💪",
+      "playAgain": "Play Again"
+    },
+    "tips": {
+      "title": "Hygiene Tips 💡",
+      "daily": "Daily Routine: Establishing a consistent hygiene routine helps you feel clean and confident!",
+      "morning": "Morning & Evening: Brush your teeth twice a day and wash your face regularly.",
+      "hands": "After Activities: Wash your hands after playing, before eating, and after using the bathroom.",
+      "shower": "Shower Regularly: Taking a shower daily helps keep your body clean and fresh."
+    }
+  },
+  "bodyGuide": {
+    "title": "Body Changes Guide",
+    "subtitle": "Age-appropriate information about physical development 🌱",
+    "everyone": "Everyone",
+    "femaleBody": "Female Body",
+    "maleBody": "Male Body",
+    "remember": {
+      "title": "Remember: Every Child is Unique 🌈",
+      "timing": "⏰ Timing: Changes can start ages 8-14 and continue into late teens.",
+      "variation": "📏 Variation: There's NO single 'normal' - everyone develops differently!",
+      "questions": "💬 Questions? Encourage your child to talk with you, their doctor, or a trusted adult.",
+      "health": "🏥 Health: If something causes pain or worries your child, consult a healthcare provider."
+    }
+  },
+  "timeline": {
+    "title": "Timeline Matching Game",
+    "subtitle": "Match each change to before or after puberty begins! 🎯",
+    "score": "Score",
+    "attempts": "Attempts",
+    "accuracy": "Accuracy",
+    "congratulations": "Congratulations! 🎉",
+    "completed": "You completed the game with {score} correct out of {attempts} attempts!",
+    "playAgain": "Play Again",
+    "selectCard": "👇 Click on a card below, then choose when it happens!",
+    "chooseStage": "👆 Now click either \"Before Puberty\" or \"After Puberty\" below!",
+    "beforePuberty": "👶 Before Puberty",
+    "afterPuberty": "🌟 After Puberty",
+    "resetGame": "Reset Game"
+  },
+  "guidance": {
+    "title": "Practical Guidance for Your Child",
+    "subtitle": "Help your child learn to handle puberty changes with confidence 💪",
+    "categories": {
+      "physical": "Physical Care",
+      "emotional": "Emotional Wellbeing",
+      "social": "Social Life",
+      "hygiene": "Personal Hygiene"
+    }
+  },
+  "bodyImage": {
+    "title": "Positive Body Image Activities",
+    "subtitle": "Five gentle prompts with illustrations to help kids name their feelings and talk about body kindness.",
+    "instruction": "Choose a feeling for each picture. You can change your answer anytime.",
+    "parentLabel": "Parent focus",
+    "parentButton": "Why this matters",
+    "progressLabel": "Question",
+    "next": "Next question",
+    "previous": "Previous",
+    "emotions": {
+      "proud": "Proud",
+      "happy": "Happy",
+      "calm": "Calm/Okay",
+      "anxious": "Anxious",
+      "curious": "Curious",
+      "sad": "A little sad"
+    },
+    "questions": [
+      {
+        "title": "Looking in the mirror",
+        "prompt": "What feeling comes up when you see a kid smiling kindly at their reflection?",
+        "focus": "Invite your child to notice strengths, talents, and kindness—not just appearance."
+      },
+      {
+        "title": "Trying a new sport",
+        "prompt": "How do you feel seeing someone discovering what their body can do?",
+        "focus": "Celebrate effort and movement over winning. This builds body confidence."
+      },
+      {
+        "title": "Choosing comfy clothes",
+        "prompt": "When you see a kid picking clothes that feel right for them, what feeling fits you?",
+        "focus": "Explain that comfort and self-expression matter more than pleasing others."
+      },
+      {
+        "title": "Drawing a self-portrait",
+        "prompt": "How do you feel about a child drawing themselves with bright colors?",
+        "focus": "Encourage creative self-expression and noticing unique traits."
+      },
+      {
+        "title": "Stretch and breathe",
+        "prompt": "What feeling do you pick seeing someone stretch, breathe, and relax?",
+        "focus": "Body gratitude grows when kids pair movement with calm breathing."
+      }
+    ]
+  },
+  "whatILike": {
+    "title": "What I Like About Me",
+    "subtitle": "A calm space for children to reflect on their strengths, kindness, and growth.",
+    "helperCta": "Tap the lightbulb for ideas",
+    "placeholder": "Type your thoughts here...",
+    "saveMessage": "Your notes stay on this device so you can come back anytime.",
+    "restoreMessage": "We loaded your last answers.",
+    "reset": "Reset everything",
+    "print": "Print or export",
+    "sections": [
+      {
+        "id": "goodAt",
+        "title": "Some things I'm good at",
+        "hint": "Think of skills, games, or hobbies you enjoy practising."
+      },
+      {
+        "id": "friendsLike",
+        "title": "Things my friends like about me",
+        "hint": "Kind words you say, the way you include others, or how you listen."
+      },
+      {
+        "id": "iLike",
+        "title": "Things I like about me",
+        "hint": "Maybe your curiosity, humor, patience, or creativity."
+      },
+      {
+        "id": "familyLove",
+        "title": "Things my family love about me",
+        "hint": "Moments you help out, share, or bring joy to your family."
+      },
+      {
+        "id": "proudOf",
+        "title": "Things that I'm proud of",
+        "hint": "Times you were brave, kept trying, or learned something new."
+      },
+      {
+        "id": "unique",
+        "title": "One unique thing about me",
+        "hint": "A special interest, talent, perspective, or way you solve problems."
+      }
+    ],
+    "inputLabel": "Write what comes to mind",
+    "encourageTitle": "Encourage kind words",
+    "encourageDescription": "Your child can share if they want, but privacy helps them write freely.",
+    "savedBadge": "Saved on device",
+    "printBadge": "Ready to print"
+  },
+  "quizzesPage": {
+    "title": "Quizzes",
+    "subtitle": "Short, kind quizzes that teach one idea at a time. Try them with your child or let them explore alone.",
+    "tag": "For Children",
+    "pickerTitle": "Pick a quiz to begin",
+    "labels": {
+      "start": "Start quiz",
+      "continue": "Continue",
+      "next": "Next question",
+      "restart": "Restart quiz",
+      "selectOption": "Pick one answer",
+      "summary": "Your results",
+      "encouragement": "Thanks for learning today!"
+    },
+    "sleep": {
+      "title": "Sleep & Nutrition Impact",
+      "description": "Discover how rest, food, and water support calm moods and steady energy.",
+      "questions": [
+        {
+          "question": "Using phones or tablets right before bed usually...",
+          "options": [
+            "Makes it harder to fall asleep",
+            "Helps you sleep faster",
+            "Does nothing to your sleep",
+            "Always relaxes your eyes"
+          ],
+          "correctIndex": 0,
+          "correctFeedback": "Blue light and exciting content can delay sleep. A short screen break helps the brain slow down.",
+          "incorrectFeedback": "Screens can wake up the brain. A calming routine helps sleep arrive sooner.",
+          "icon": "📱"
+        },
+        {
+          "question": "Most school-age kids feel best with about...",
+          "options": [
+            "6-7 hours of sleep",
+            "9-11 hours of sleep",
+            "13-14 hours of sleep",
+            "Only naps during the day"
+          ],
+          "correctIndex": 1,
+          "correctFeedback": "About 9-11 hours keeps focus, mood, and growth on track for most kids.",
+          "incorrectFeedback": "Bodies grow and brains recharge with plenty of night sleep—usually about 9-11 hours.",
+          "icon": "🛏️"
+        },
+        {
+          "question": "A gentle bedtime snack could be...",
+          "options": [
+            "Sugary soda",
+            "A heavy burger",
+            "Warm milk or a banana",
+            "An energy drink"
+          ],
+          "correctIndex": 2,
+          "correctFeedback": "Light snacks like warm milk or bananas are calming. Sugary or heavy foods can upset sleep.",
+          "incorrectFeedback": "Try a light, calming snack like warm milk or a banana instead of sugary or heavy foods.",
+          "icon": "🍌"
+        },
+        {
+          "question": "Magnesium and vitamin D can help...",
+          "options": [
+            "Keep muscles calm and bones strong",
+            "Make screens safer at night",
+            "Replace all fruits and vegetables",
+            "Stop you from ever feeling tired"
+          ],
+          "correctIndex": 0,
+          "correctFeedback": "These nutrients support relaxed muscles, steady mood, and strong bones. Food first, supplements only if needed.",
+          "incorrectFeedback": "Magnesium and vitamin D support calm muscles and healthy bones—foods like leafy greens and sunlight help.",
+          "icon": "🌞"
+        },
+        {
+          "question": "Drinking water through the day helps you...",
+          "options": [
+            "Focus and stay energised",
+            "Feel hungrier",
+            "Skip sleep",
+            "Never need snacks"
+          ],
+          "correctIndex": 0,
+          "correctFeedback": "Hydration keeps energy, focus, and mood steady. Keep a water bottle nearby.",
+          "incorrectFeedback": "Sips of water during the day keep your body and brain steady and focused.",
+          "icon": "💧"
+        }
+      ],
+      "summary": {
+        "perfect": "Amazing sleep-smart choices!",
+        "good": "Great job noticing what helps your body rest.",
+        "keepGoing": "Nice effort—try again to learn even more."
+      }
+    },
+    "puberty": {
+      "title": "Puberty Basics",
+      "description": "Friendly reminders about body changes, feelings, and self-care.",
+      "questions": [
+        {
+          "question": "Puberty can start at different ages, usually between...",
+          "options": [
+            "Ages 5-7",
+            "Ages 8-14",
+            "Ages 18-20",
+            "Only after college"
+          ],
+          "correctIndex": 1,
+          "correctFeedback": "Bodies have their own clocks. It's okay to start earlier or later than friends.",
+          "incorrectFeedback": "Most kids begin somewhere around ages 8-14, and every timeline is okay.",
+          "icon": "⏰"
+        },
+        {
+          "question": "A common physical change is...",
+          "options": [
+            "Getting shorter",
+            "Growth spurts",
+            "Losing eyebrows",
+            "Nothing changes"
+          ],
+          "correctIndex": 1,
+          "correctFeedback": "Growth spurts are normal. Clothes may feel shorter for a while!",
+          "incorrectFeedback": "Growth spurts happen to many kids during puberty and are normal.",
+          "icon": "🦒"
+        },
+        {
+          "question": "Mood swings during puberty are...",
+          "options": [
+            "Weird and rare",
+            "Normal and common",
+            "A sign you are in trouble",
+            "Impossible"
+          ],
+          "correctIndex": 1,
+          "correctFeedback": "Feelings can be a rollercoaster. Naming emotions and taking breaks can help.",
+          "incorrectFeedback": "Big feelings are common during puberty. Pausing, breathing, and talking help.",
+          "icon": "🎢"
+        },
+        {
+          "question": "A simple way to handle new body smells is...",
+          "options": [
+            "Never shower",
+            "Use deodorant and wash regularly",
+            "Stay away from friends",
+            "Ignore it"
+          ],
+          "correctIndex": 1,
+          "correctFeedback": "Daily washing, fresh clothes, and deodorant can help you feel comfortable.",
+          "incorrectFeedback": "Fresh clothes, washing, and deodorant help with new body smells.",
+          "icon": "🧼"
+        }
+      ],
+      "summary": {
+        "perfect": "You handled every question with confidence!",
+        "good": "Nice! You know a lot about growing up.",
+        "keepGoing": "Great start—try again to remember even more."
+      }
+    },
+    "tips": {
+      "oneAtATime": "One question at a time keeps the brain calm and focused.",
+      "encouragement": "Instant encouragement helps kids try again with confidence."
+    }
+  },
+  "resourceLibrary": {
+    "title": "Resource Library",
+    "subtitle": "Downloadable guides, checklists, and activity sheets to support your family's journey",
+    "actions": {
+      "visit": "Visit",
+      "preview": "Preview",
+      "open": "Open",
+      "download": "Download",
+      "sourceLabel": "Source",
+      "sizeLabel": "Length/Format"
+    },
+    "categories": {
+      "parentGuides": {
+        "title": "Parent Guides & Educational Resources"
+      },
+      "books": {
+        "title": "Recommended Books & Reading"
+      }
+    },
+    "items": {
+      "kidshealth-parent-guide": {
+        "title": "KidsHealth: Talking to Your Child About Puberty",
+        "description": "Expert guide from Nemours KidsHealth on how to have age-appropriate conversations about puberty",
+        "type": "Web Resource",
+        "size": "Online",
+        "source": "Nemours KidsHealth"
+      },
+      "planned-parenthood-guide": {
+        "title": "Planned Parenthood: Puberty & Growing Up",
+        "description": "Comprehensive resource covering physical changes, emotional development, and how to support your child",
+        "type": "Web Resource",
+        "size": "Online",
+        "source": "Planned Parenthood"
+      },
+      "aap-puberty-resource": {
+        "title": "American Academy of Pediatrics: Puberty Resources",
+        "description": "Medical guidance from AAP on physical and psychosocial development during adolescence",
+        "type": "Web Resource",
+        "size": "Online",
+        "source": "AAP"
+      },
+      "puberty-curriculum": {
+        "title": "Puberty Curriculum: Parent Resources",
+        "description": "Tools and information to help parents discuss puberty confidently with their children",
+        "type": "Web Resource",
+        "size": "Online",
+        "source": "Puberty Curriculum"
+      },
+      "our-whole-lives": {
+        "title": "Our Whole Lives (OWL) Program",
+        "description": "Comprehensive, age-appropriate sexuality education curricula for various age groups",
+        "type": "Program Info",
+        "size": "Online",
+        "source": "Unitarian Universalist Association"
+      },
+      "perfectly-normal": {
+        "title": "It's Perfectly Normal by Robie Harris",
+        "description": "Award-winning book covering changing bodies, growing up, sex, and sexual health",
+        "type": "Book",
+        "size": "Available in libraries",
+        "source": "Robie Harris"
+      },
+      "care-keeping": {
+        "title": "The Care and Keeping of You Series",
+        "description": "American Girl series covering body changes, hygiene, and self-care for girls",
+        "type": "Book Series",
+        "size": "Available in libraries",
+        "source": "American Girl"
+      },
+      "guy-stuff": {
+        "title": "Guy Stuff: The Body Book for Boys",
+        "description": "Comprehensive guide to puberty, body changes, and growing up for boys",
+        "type": "Book",
+        "size": "Available in libraries",
+        "source": "American Girl"
+      }
+    },
+    "about": {
+      "title": "📚 About These Resources",
+      "points": [
+        {
+          "title": "Free to Download",
+          "detail": "All resources are free and available for personal use."
+        },
+        {
+          "title": "Print-Friendly",
+          "detail": "All PDFs are optimized for printing at home."
+        },
+        {
+          "title": "Regular Updates",
+          "detail": "We regularly add new resources based on community feedback."
+        },
+        {
+          "title": "Privacy",
+          "detail": "Downloads are private - no account or personal information required."
+        }
+      ]
+    }
+  },
+  "developmentalChanges": {
+    "title": "Understanding Changes",
+    "subtitle": "Puberty brings many changes to your body and mind. Let's explore them together! 🌟",
+    "tabs": {
+      "physical": "💪 Physical",
+      "emotional": "💭 Emotional",
+      "comics": "📚 Comics",
+      "video": "🎥 Video"
+    },
+    "physical": [
+      {
+        "title": "Growth Spurts",
+        "description": "You'll grow taller! This happens at different times for everyone."
+      },
+      {
+        "title": "Body Shape Changes",
+        "description": "Your body will develop new curves and proportions as you mature."
+      },
+      {
+        "title": "Voice Changes",
+        "description": "Your voice may deepen or change in pitch - this is totally normal!"
+      },
+      {
+        "title": "Skin Changes",
+        "description": "You might get acne or oily skin. Good hygiene helps manage this."
+      },
+      {
+        "title": "Hair Growth",
+        "description": "New hair will grow in different places on your body."
+      },
+      {
+        "title": "Body Odor",
+        "description": "You'll start to sweat more. Using deodorant becomes important!"
+      }
+    ],
+    "emotional": [
+      {
+        "title": "Mood Swings",
+        "description": "Your emotions might feel like a rollercoaster - that's normal!"
+      },
+      {
+        "title": "New Interests",
+        "description": "You might develop new hobbies, interests, and passions."
+      },
+      {
+        "title": "Independence",
+        "description": "You'll want more privacy and independence from family."
+      },
+      {
+        "title": "Relationships",
+        "description": "Friendships and social connections become more important."
+      },
+      {
+        "title": "Self-Awareness",
+        "description": "You'll think more about who you are and who you want to be."
+      },
+      {
+        "title": "Confidence",
+        "description": "Building confidence takes time - be patient with yourself!"
+      }
+    ],
+    "comics": [
+      {
+        "title": "The Growth Spurt",
+        "panels": [
+          "I noticed I'm getting taller!",
+          "My clothes don't fit anymore...",
+          "That's totally normal during puberty!"
+        ],
+        "lesson": "Growth spurts are a natural part of growing up!"
+      },
+      {
+        "title": "Mood Swings",
+        "panels": [
+          "I feel happy one moment...",
+          "Then sad the next...",
+          "Remember: emotions are normal!"
+        ],
+        "lesson": "Mood swings are common during puberty due to hormonal changes."
+      },
+      {
+        "title": "Body Changes",
+        "panels": [
+          "My body is changing...",
+          "I feel different from my friends",
+          "Everyone changes at their own pace!"
+        ],
+        "lesson": "Everyone's body changes at different times - that's okay!"
+      }
+    ],
+    "quiz": {
+      "title": "Quiz Time Moved!",
+      "description": "Find the silly, colorful quiz adventure on the new Quiz page.",
+      "cta": "Jump to Quiz Page ➜"
+    },
+    "video": {
+      "title": "Educational Videos & Animations",
+      "subtitle": "Watch helpful videos about puberty changes from trusted sources",
+      "items": [
+        {
+          "title": "Understanding Puberty",
+          "description": "A comprehensive guide to physical and emotional changes",
+          "source": "Official Health Website",
+          "duration": "5 min"
+        },
+        {
+          "title": "Emotional Changes Explained",
+          "description": "Learn about mood swings and emotional development",
+          "source": "Educational Channel",
+          "duration": "4 min"
+        },
+        {
+          "title": "Body Changes Animation",
+          "description": "Animated guide to physical development",
+          "source": "Health Organization",
+          "duration": "6 min"
+        },
+        {
+          "title": "Building Confidence",
+          "description": "Tips for self-acceptance during puberty",
+          "source": "Youth Support",
+          "duration": "3 min"
+        }
+      ],
+      "button": "Watch",
+      "note": "Note: These videos are placeholders. In the actual app, you would embed videos from official health websites or educational channels."
+    },
+    "info": {
+      "title": "Remember: Everyone is Different 🌈",
+      "points": [
+        {
+          "label": "Timing",
+          "text": "Puberty can start anywhere from ages 8-14. There's no \"right\" time!"
+        },
+        {
+          "label": "Pace",
+          "text": "Some changes happen quickly, others take years. Your journey is unique."
+        },
+        {
+          "label": "Support",
+          "text": "Talk to trusted adults if you have questions or concerns. They're here to help!"
+        }
+      ]
+    }
+  },
+  "bodyGuidePage": {
+    "header": {
+      "title": "Understanding Changes & Body Guide",
+      "subtitle": "Learn about physical and emotional changes during puberty 🌱"
+    },
+    "tabs": {
+      "physical": "Physical",
+      "emotional": "Emotional",
+      "comics": "Comics",
+      "video": "Video",
+      "body-guide": "Body Guide"
+    },
+    "physicalChanges": [
+      {
+        "title": "Growth Spurts",
+        "description": "You'll grow taller! This happens at different times for everyone.",
+        "color": "from-blue-400 to-cyan-500"
+      },
+      {
+        "title": "Body Shape Changes",
+        "description": "Your body will develop new curves and proportions as you mature.",
+        "color": "from-pink-400 to-rose-500"
+      },
+      {
+        "title": "Voice Changes",
+        "description": "Your voice may deepen or change in pitch - this is totally normal!",
+        "color": "from-purple-400 to-indigo-500"
+      },
+      {
+        "title": "Skin Changes",
+        "description": "You might get acne or oily skin. Good hygiene helps manage this.",
+        "color": "from-amber-400 to-orange-500"
+      },
+      {
+        "title": "Hair Growth",
+        "description": "New hair will grow in different places on your body.",
+        "color": "from-green-400 to-emerald-500"
+      },
+      {
+        "title": "Body Odor",
+        "description": "You'll start to sweat more. Using deodorant becomes important!",
+        "color": "from-teal-400 to-cyan-500"
+      }
+    ],
+    "emotionalChanges": [
+      {
+        "title": "Mood Swings",
+        "description": "Your emotions might feel like a rollercoaster - that's normal!",
+        "color": "from-purple-400 to-pink-500"
+      },
+      {
+        "title": "New Interests",
+        "description": "You might develop new hobbies, interests, and passions.",
+        "color": "from-yellow-400 to-amber-500"
+      },
+      {
+        "title": "Independence",
+        "description": "You'll want more privacy and independence from family.",
+        "color": "from-blue-400 to-indigo-500"
+      },
+      {
+        "title": "Relationships",
+        "description": "Friendships and social connections become more important.",
+        "color": "from-rose-400 to-pink-500"
+      },
+      {
+        "title": "Self-Awareness",
+        "description": "You'll think more about who you are and who you want to be.",
+        "color": "from-cyan-400 to-blue-500"
+      },
+      {
+        "title": "Confidence",
+        "description": "Building confidence takes time - be patient with yourself!",
+        "color": "from-orange-400 to-red-500"
+      }
+    ],
+    "generalChanges": [
+      {
+        "id": "growth",
+        "title": "Growth Spurts",
+        "description": "Most people experience rapid growth during puberty, typically gaining 2-4 inches per year at peak growth.",
+        "details": "Growth spurts usually last 2-3 years. Hands and feet grow first, followed by arms and legs, and finally the torso. This can make you feel temporarily clumsy - that's completely normal! You might notice your clothes don't fit as well, or you bump into things more often. This is because your body is growing faster than your brain can adjust. Most people reach their adult height by age 18-20, but some continue growing into their early 20s. Remember: everyone grows at their own pace, and there's no \"right\" height!",
+        "tips": [
+          "Eat nutritious meals to support healthy growth",
+          "Get plenty of sleep (8-10 hours) - growth happens during rest",
+          "Stay active with sports or exercise",
+          "Be patient - growth spurts are temporary"
+        ],
+        "image": "/images/growth-spurt.jpg",
+        "imageUrl": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&h=400&fit=crop&q=80",
+        "emoji": "📏"
+      },
+      {
+        "id": "skin",
+        "title": "Skin Changes",
+        "description": "Your skin produces more oil, which can lead to acne on your face, chest, and back.",
+        "details": "Wash your face twice daily with a gentle cleanser. Acne is normal and temporary. If it bothers you, talk to a doctor about treatments. Never pop pimples as it can cause scarring! Hormonal changes increase oil production, which can clog pores. Acne is most common on the face, but can also appear on the chest, back, and shoulders. Most people experience some acne during puberty, and it usually improves by the late teens or early 20s. If acne is severe or causing emotional distress, a dermatologist can help with treatment options.",
+        "tips": [
+          "Wash face morning and night with gentle, oil-free cleanser",
+          "Avoid touching your face with dirty hands",
+          "Use non-comedogenic (won't clog pores) moisturizers",
+          "Change pillowcases regularly",
+          "Don't scrub too hard - gentle is better",
+          "See a doctor if acne is severe or painful"
+        ],
+        "image": "/images/skin-changes.jpg",
+        "imageUrl": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=800&h=400&fit=crop&q=80",
+        "emoji": "✨"
+      },
+      {
+        "id": "sweat",
+        "title": "Sweating & Body Odor",
+        "description": "You'll start sweating more, especially from underarms, and develop a stronger body odor.",
+        "details": "Daily showers become important! Use deodorant or antiperspirant. Wear clean clothes and breathable fabrics. This is your body maturing - everyone goes through it! Sweat glands become more active during puberty, especially in the armpits, feet, and groin area. Body odor happens when bacteria on your skin break down sweat. This is completely normal and part of growing up. Good hygiene habits will help you feel fresh and confident.",
+        "tips": [
+          "Shower or bathe daily, especially after exercise",
+          "Use deodorant or antiperspirant every day",
+          "Wear clean clothes - change daily",
+          "Choose breathable fabrics like cotton",
+          "Keep extra deodorant in your school bag",
+          "Wash underarms thoroughly with soap"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?w=800&h=400&fit=crop&q=80",
+        "emoji": "🚿"
+      },
+      {
+        "id": "hair",
+        "title": "Body Hair Growth",
+        "description": "Hair will grow in new places including underarms, legs, and pubic area.",
+        "details": "The amount and thickness varies greatly between people. Some have lots of body hair, others have very little - both are completely normal! You can choose to remove it or not - it's your choice. Body hair typically starts appearing around ages 9-14, but timing varies. Hair may grow on legs, underarms, pubic area, and sometimes on the chest, back, or face. The color and texture of body hair may be different from the hair on your head. Whether to remove body hair is a personal choice - there's no right or wrong answer.",
+        "tips": [
+          "Body hair is natural and normal",
+          "Removing hair is optional - your choice",
+          "If removing hair, learn safe methods from trusted adults",
+          "Shaving requires proper technique to avoid cuts",
+          "Waxing and other methods have pros and cons",
+          "Remember: everyone's body hair is different"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&h=400&fit=crop&q=80",
+        "emoji": "🌿"
+      },
+      {
+        "id": "weight",
+        "title": "Weight & Body Shape Changes",
+        "description": "Your body composition changes - you may gain weight as you grow taller and develop muscle.",
+        "details": "Weight gain during puberty is normal and healthy! Your body needs extra calories to support growth. You might notice your body shape changing - this is part of normal development. Focus on healthy habits rather than a specific number on the scale. Your body is preparing for adulthood, and these changes are necessary for healthy development.",
+        "tips": [
+          "Weight gain during puberty is normal and healthy",
+          "Focus on nutritious foods, not dieting",
+          "Stay active with activities you enjoy",
+          "Your body shape is unique - embrace it",
+          "Talk to a doctor if you have concerns about weight",
+          "Avoid comparing your body to others"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=800&h=400&fit=crop&q=80",
+        "emoji": "🍎"
+      },
+      {
+        "id": "sleep",
+        "title": "Sleep Patterns Change",
+        "description": "You might need more sleep, or your sleep schedule might shift later.",
+        "details": "During puberty, your body's internal clock shifts, making you feel more awake at night and sleepy in the morning. This is why many teenagers are \"night owls.\" However, you still need 8-10 hours of sleep for healthy growth and development. Try to maintain a consistent sleep schedule, even on weekends.",
+        "tips": [
+          "Aim for 8-10 hours of sleep each night",
+          "Try to go to bed and wake up at similar times",
+          "Avoid screens 30-60 minutes before bed",
+          "Create a relaxing bedtime routine",
+          "Keep your bedroom cool, dark, and quiet",
+          "Limit caffeine, especially in the afternoon"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=800&h=400&fit=crop&q=80",
+        "emoji": "😴"
+      }
+    ],
+    "femaleChanges": [
+      {
+        "id": "breast",
+        "title": "Breast Development",
+        "description": "Breasts begin to develop, starting with small buds that may feel tender.",
+        "details": "Development can take 4-5 years to complete. It's normal for breasts to be different sizes or develop at different rates. Many people need a training bra around this time. Tenderness is normal! Breast development typically starts between ages 8-13, but can begin earlier or later. You might notice small, firm lumps under the nipples first - these are called breast buds. One breast might develop faster than the other - this is completely normal and they usually even out over time. Soreness or tenderness is common and usually temporary.",
+        "tips": [
+          "Breast development happens in stages over several years",
+          "It's normal for one breast to be slightly larger",
+          "Tenderness usually goes away as development continues",
+          "A soft, supportive bra can help with comfort",
+          "Talk to a trusted adult if you have questions",
+          "All breast sizes are normal and beautiful"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&q=80",
+        "emoji": "💖"
+      },
+      {
+        "id": "hips",
+        "title": "Hip Widening & Body Shape",
+        "description": "Hips and thighs become wider and more rounded.",
+        "details": "This is caused by hormones preparing your body for adulthood. Your body shape will change from straight to more curved. Remember: bodies come in all shapes and sizes! As estrogen levels increase, fat is distributed to the hips, thighs, and buttocks, creating a more curved figure. This typically happens gradually over several years. Your waist might become more defined, and your overall body shape will become more adult-like. These changes are natural and healthy.",
+        "tips": [
+          "Body shape changes are normal and healthy",
+          "Everyone develops at their own pace",
+          "Embrace your unique body shape",
+          "Wear clothes that make you feel comfortable",
+          "Focus on health, not appearance",
+          "Remember: all body shapes are beautiful"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=800&h=400&fit=crop&q=80",
+        "emoji": "💃"
+      },
+      {
+        "id": "period",
+        "title": "Menstruation (Periods)",
+        "description": "Monthly menstrual cycles begin, typically between ages 11-14.",
+        "details": "Your first period might be irregular - that's normal! Use pads, tampons, or menstrual cups. Track your cycle to know when to expect it. Cramps are common and can be managed with heat, rest, and pain relief if needed. Periods usually start 1-2 years after breast development begins. The first few periods may be irregular - cycles can range from 21-45 days and still be normal. Periods typically last 3-7 days. It's helpful to track your cycle to understand your body's pattern.",
+        "tips": [
+          "Keep period supplies (pads/tampons) in your bag",
+          "Track your cycle with an app or calendar",
+          "For cramps: try heat, gentle exercise, or pain relief",
+          "Change pads/tampons every 4-6 hours",
+          "It's normal for early periods to be irregular",
+          "Talk to a doctor if periods are very painful or heavy",
+          "Remember: periods are a sign of a healthy body"
+        ],
+        "image": "/images/period-care.jpg",
+        "imageUrl": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=800&h=400&fit=crop&q=80",
+        "emoji": "🌸"
+      },
+      {
+        "id": "discharge",
+        "title": "Vaginal Discharge",
+        "description": "Clear or whitish discharge is normal and keeps the vagina healthy.",
+        "details": "This usually starts before your first period. It's your body's way of keeping itself clean. If discharge has a strong odor or causes itching, talk to a doctor. Vaginal discharge is a normal part of the menstrual cycle. It helps keep the vagina clean and prevents infection. The amount, color, and consistency can change throughout the month. Normal discharge is usually clear or white, and doesn't have a strong smell.",
+        "tips": [
+          "Normal discharge is clear or white",
+          "It may increase around ovulation (mid-cycle)",
+          "Wear breathable cotton underwear",
+          "Avoid douching - it's not necessary",
+          "See a doctor if discharge has strong odor, unusual color, or causes itching",
+          "This is your body's natural cleaning system"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&h=400&fit=crop&q=80",
+        "emoji": "🩹"
+      },
+      {
+        "id": "emotions",
+        "title": "Emotional Changes (Female)",
+        "description": "Hormonal changes can affect your emotions and mood.",
+        "details": "Estrogen and progesterone levels fluctuate during your menstrual cycle, which can affect how you feel. You might experience mood swings, especially before your period (PMS - Premenstrual Syndrome). This is completely normal. Some people feel more emotional, irritable, or sensitive at certain times of the month. These feelings are valid and temporary.",
+        "tips": [
+          "Mood changes are normal and temporary",
+          "Track your cycle to understand patterns",
+          "Practice self-care during difficult days",
+          "Talk to someone you trust about your feelings",
+          "Gentle exercise can help improve mood",
+          "See a doctor if mood changes are severe"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop&q=80",
+        "emoji": "💭"
+      }
+    ],
+    "maleChanges": [
+      {
+        "id": "voice",
+        "title": "Voice Deepening",
+        "description": "Your voice will gradually become deeper as your voice box (larynx) grows.",
+        "details": "Voice \"cracking\" during this time is normal and temporary! The Adam's apple (visible bump in throat) becomes more prominent. The voice change process usually takes several months to a year. This typically happens between ages 12-16. Your voice might crack or sound hoarse as it adjusts. This happens because your vocal cords are growing longer and thicker. The change is gradual, and eventually your voice will stabilize at a deeper pitch. This is a normal part of becoming a man.",
+        "tips": [
+          "Voice cracking is temporary and normal",
+          "The change happens gradually over months",
+          "Your voice will eventually stabilize",
+          "Don't worry if it sounds different - everyone goes through this",
+          "Practice speaking to get used to your new voice",
+          "If voice changes are concerning, talk to a doctor"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&h=400&fit=crop&q=80",
+        "emoji": "🎤"
+      },
+      {
+        "id": "facial",
+        "title": "Facial Hair Growth",
+        "description": "Hair begins growing on the upper lip, chin, and cheeks.",
+        "details": "It starts as light fuzz and gradually becomes thicker. You'll eventually need to start shaving if you choose to. Ask a trusted adult to teach you how to shave safely when you're ready. Facial hair typically starts appearing around ages 13-16, but timing varies. It usually starts as light, soft hair on the upper lip, then spreads to the chin, cheeks, and neck. The amount and thickness of facial hair varies greatly - some people have thick beards, others have very little hair. Both are normal!",
+        "tips": [
+          "Facial hair growth varies - everyone is different",
+          "Start with light fuzz before it becomes thick",
+          "Learn proper shaving technique from a trusted adult",
+          "Use shaving cream and a sharp razor",
+          "Shave in the direction of hair growth to avoid irritation",
+          "It's okay to wait until you're ready to start shaving"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=800&h=400&fit=crop&q=80",
+        "emoji": "✂️"
+      },
+      {
+        "id": "muscles",
+        "title": "Muscle Development",
+        "description": "Shoulders broaden and muscles become more defined.",
+        "details": "You'll naturally become stronger as testosterone increases. Upper body strength especially increases. Regular exercise helps build healthy muscles, but avoid overdoing it! During puberty, muscle mass increases naturally due to hormonal changes. Your shoulders will get broader, and you'll develop more muscle definition. This happens gradually over several years. Regular exercise supports healthy muscle development, but it's important not to overdo it or use weights that are too heavy for your age.",
+        "tips": [
+          "Muscle development happens naturally with hormones",
+          "Regular exercise supports healthy growth",
+          "Focus on proper form, not heavy weights",
+          "Include rest days in your exercise routine",
+          "Eat nutritious foods to support muscle growth",
+          "Talk to a coach or trainer for safe exercise guidance"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&h=400&fit=crop&q=80",
+        "emoji": "💪"
+      },
+      {
+        "id": "changes",
+        "title": "Genital Changes",
+        "description": "The penis and testicles grow larger. Erections become more frequent.",
+        "details": "Random erections are completely normal and not always related to sexual thoughts. \"Wet dreams\" (nocturnal emissions) are also normal. These are signs of healthy development. Genital development typically begins around ages 10-14. The penis and testicles grow larger, and the scrotum (the sac holding the testicles) becomes darker and larger. Random erections can happen at any time and are not always related to sexual thoughts - they're a normal part of development. \"Wet dreams\" occur when the body releases semen during sleep - this is also completely normal.",
+        "tips": [
+          "Genital changes are normal and healthy",
+          "Random erections are not always related to thoughts",
+          "\"Wet dreams\" are normal and nothing to be ashamed of",
+          "Everyone develops at their own pace",
+          "If you have questions, talk to a trusted adult or doctor",
+          "These changes are signs of healthy development"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop&q=80",
+        "emoji": "🔬"
+      },
+      {
+        "id": "emotions-male",
+        "title": "Emotional Changes (Male)",
+        "description": "Hormonal changes can affect your emotions and mood.",
+        "details": "Testosterone levels increase during puberty, which can affect your emotions. You might feel more aggressive, competitive, or have stronger emotional reactions. You might also experience mood swings. These emotional changes are normal and part of growing up. Learning to manage emotions is an important life skill.",
+        "tips": [
+          "Emotional changes are normal during puberty",
+          "Find healthy ways to express emotions (sports, art, music)",
+          "Talk to someone you trust about your feelings",
+          "Practice deep breathing when feeling overwhelmed",
+          "Exercise can help manage strong emotions",
+          "Remember: it's okay to have feelings and express them"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=800&h=400&fit=crop&q=80",
+        "emoji": "🎨"
+      }
+    ],
+    "comics": [
+      {
+        "id": 1,
+        "title": "The Growth Spurt",
+        "panels": [
+          {
+            "text": "I noticed I'm getting taller!",
+            "emoji": "📏"
+          },
+          {
+            "text": "My clothes don't fit anymore...",
+            "emoji": "👕"
+          },
+          {
+            "text": "That's totally normal during puberty!",
+            "emoji": "✨"
+          }
+        ],
+        "lesson": "Growth spurts are a natural part of growing up!"
+      },
+      {
+        "id": 2,
+        "title": "Mood Swings",
+        "panels": [
+          {
+            "text": "I feel happy one moment...",
+            "emoji": "😊"
+          },
+          {
+            "text": "Then sad the next...",
+            "emoji": "😢"
+          },
+          {
+            "text": "Remember: emotions are normal!",
+            "emoji": "💙"
+          }
+        ],
+        "lesson": "Mood swings are common during puberty due to hormonal changes."
+      },
+      {
+        "id": 3,
+        "title": "Body Changes",
+        "panels": [
+          {
+            "text": "My body is changing...",
+            "emoji": "🤔"
+          },
+          {
+            "text": "I feel different from my friends",
+            "emoji": "😕"
+          },
+          {
+            "text": "Everyone changes at their own pace!",
+            "emoji": "🌈"
+          }
+        ],
+        "lesson": "Everyone's body changes at different times - that's okay!"
+      }
+    ],
+    "quiz": {
+      "title": "Test Your Understanding",
+      "start": "Start Quiz",
+      "submit": "Submit Answers",
+      "tryAgain": "Try Again",
+      "scoreMessage": "You got {correct} out of {total} correct!",
+      "perfect": "Perfect score! You're a puberty expert! 🌟",
+      "great": "Great job! Keep learning! 💪",
+      "questions": [
+        {
+          "question": "When does puberty typically start?",
+          "options": [
+            "Ages 5-7",
+            "Ages 8-14",
+            "Ages 15-18",
+            "Ages 20+"
+          ],
+          "correct": "Ages 8-14"
+        },
+        {
+          "question": "What is a common physical change during puberty?",
+          "options": [
+            "Getting shorter",
+            "Growth spurts",
+            "Losing hair",
+            "No changes"
+          ],
+          "correct": "Growth spurts"
+        },
+        {
+          "question": "Mood swings during puberty are:",
+          "options": [
+            "Abnormal",
+            "Normal and common",
+            "A sign of illness",
+            "Rare"
+          ],
+          "correct": "Normal and common"
+        },
+        {
+          "question": "Everyone goes through puberty:",
+          "options": [
+            "At the exact same time",
+            "At different times",
+            "Only boys",
+            "Only girls"
+          ],
+          "correct": "At different times"
+        }
+      ]
+    },
+    "videoSection": {
+      "title": "Educational Videos & Animations",
+      "subtitle": "Watch helpful videos about puberty changes from trusted sources",
+      "videos": [
+        {
+          "title": "Puberty Explained for Kids",
+          "description": "Educational video explaining puberty changes in an age-appropriate way",
+          "videoId": "gWFLnkE9rh4",
+          "source": "Sam.K Tween & Teens",
+          "duration": "5:03"
+        },
+        {
+          "title": "Emotional Changes During Puberty",
+          "description": "Understanding mood swings and emotional development",
+          "videoId": "du8siPJ1ZKo",
+          "source": "Educational Channel",
+          "duration": "3:57"
+        },
+        {
+          "title": "Physical Changes: What to Expect",
+          "description": "Comprehensive guide to physical development during puberty",
+          "videoId": "vMRHCYq7oBU",
+          "source": "Health Organization",
+          "duration": "4:40"
+        },
+        {
+          "title": "Building Self-Confidence",
+          "description": "Tips for self-acceptance and confidence during puberty",
+          "videoId": "pdjaxS4ME2A",
+          "source": "Youth Support",
+          "duration": "6:29"
+        }
+      ],
+      "moreTitle": "More Educational Videos",
+      "moreLinks": [
+        {
+          "title": "Hygiene During Puberty",
+          "link": "https://www.youtube.com/results?search_query=puberty+hygiene+for+kids"
+        },
+        {
+          "title": "Talking to Parents",
+          "link": "https://www.youtube.com/results?search_query=talking+to+parents+about+puberty"
+        },
+        {
+          "title": "Body Image & Confidence",
+          "link": "https://www.youtube.com/results?search_query=body+image+puberty+confidence"
+        }
+      ]
+    },
+    "remember": {
+      "title": "Remember: Everyone is Different 🌈",
+      "points": [
+        {
+          "title": "Timing",
+          "text": "Puberty can start anywhere from ages 8-14. There's no \"right\" time!"
+        },
+        {
+          "title": "Pace",
+          "text": "Some changes happen quickly, others take years. Your journey is unique."
+        },
+        {
+          "title": "Support",
+          "text": "Talk to trusted adults if you have questions or concerns. They're here to help!"
+        }
+      ]
+    },
+    "helpfulTips": "Helpful Tips:",
+    "lessonLabel": "Lesson",
+    "genderTabs": {
+      "general": "Everyone",
+      "female": "Female",
+      "male": "Male"
+    },
+    "illustrationFallback": "Educational illustration"
+  }
+}
